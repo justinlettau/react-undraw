@@ -41,9 +41,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "prepublishOnly": "npm run lib:build",
-    "lib": "npm run lib:clean && npm run lib:build",
+    "lib": "npm run lib:clean && npm run lib:build:esm &&npm run lib:build:cjs",
     "lib:clean": "rimraf dist",
-    "lib:build": "cross-env NODE_ENV=production babel src/lib --out-dir dist --copy-files",
+    "lib:build:esm": "cross-env BABEL_ENV=esm NODE_ENV=production babel src/lib --out-dir dist --copy-files",
+    "lib:build:cjs": "cross-env BABEL_ENV=cjs NODE_ENV=production babel src/lib --out-dir dist/cjs --copy-files",
     "format:all": "prettier --write **/*.js"
   },
   "husky": {
@@ -51,7 +52,7 @@
       "pre-commit": "pretty-quick --staged"
     }
   },
-  "main": "dist/index.js",
+  "main": "dist/cjs/index.js",
   "module": "dist/index.js",
   "types": "./undraw.d.ts",
   "files": [
@@ -70,6 +71,7 @@
     "@babel/core": "^7.2.0",
     "@babel/plugin-proposal-class-properties": "^7.2.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.2.0",
+    "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.8",
     "@fortawesome/free-brands-svg-icons": "^5.5.0",
