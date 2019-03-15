@@ -1,586 +1,2402 @@
 [
-  { "name": "3d modeling", "svg": "3d_modeling_h60h.svg" },
-  { "name": "A day at the park", "svg": "a_day_at_the_park_owg1.svg" },
-  { "name": "A whole year", "svg": "a_whole_year_vnfm.svg" },
-  { "name": "About me", "svg": "about_me_wa29.svg" },
-  { "name": "About us page", "svg": "about_us_page_ee1k.svg" },
-  { "name": "Accept request", "svg": "accept_request_vdsd.svg" },
-  { "name": "Accept terms", "svg": "accept_terms_4in8.svg" },
-  { "name": "Account", "svg": "account_490v.svg" },
-  { "name": "Active support", "svg": "active_support_6rwo.svg" },
-  { "name": "Add files", "svg": "add_file2_gvbb.svg" },
-  { "name": "Add notes", "svg": "add_notes_8cfw.svg" },
-  { "name": "Add to cart", "svg": "add_to_cart_vkjp.svg" },
-  { "name": "Add user", "svg": "add_user_ipe3.svg" },
-  { "name": "Address", "svg": "address_udes.svg" },
-  { "name": "Agreement", "svg": "agreement_aajr.svg" },
-  { "name": "Air support", "svg": "air_support_wy1q.svg" },
-  { "name": "Aircraft", "svg": "aircraft_fbvl.svg" },
-  { "name": "Airport", "svg": "airport_2581.svg" },
-  { "name": "Alert", "svg": "alert_mc7b.svg" },
-  { "name": "Algolia", "svg": "algolia_msba.svg" },
-  { "name": "Alien science", "svg": "alien_science_nonm.svg" },
-  { "name": "Analysis", "svg": "analysis_4jis.svg" },
-  { "name": "Analytics", "svg": "analytics_5pgy.svg" },
-  { "name": "Android", "svg": "android_jr64.svg" },
-  { "name": "Apartment rent", "svg": "apartment_rent_o0ut.svg" },
-  { "name": "App installation", "svg": "app_installation_mbdv.svg" },
-  { "name": "Appreciation", "svg": "appreciation_2_v4bt.svg" },
-  { "name": "Art lover", "svg": "art_lover_yjfr.svg" },
-  { "name": "Artificial intelligence", "svg": "artificial_intelligence_upfn.svg" },
-  { "name": "Astronaut", "svg": "Astronaut_kwwa.svg" },
-  { "name": "At work", "svg": "files_6b3d.svg" },
-  { "name": "Authentication", "svg": "authentication_fsn5.svg" },
-  { "name": "Autumn", "svg": "autumn_2_ygk5.svg" },
-  { "name": "Awards", "svg": "awards_fieb.svg" },
-  { "name": "Baby", "svg": "baby_ja7a.svg" },
-  { "name": "Back in the day", "svg": "back_in_the_day_knsh.svg" },
-  { "name": "Back to school", "svg": "back_to_school_inwc.svg" },
-  { "name": "Balloons", "svg": "balloons_vxx5.svg" },
-  { "name": "Barber", "svg": "barber_3uel.svg" },
-  { "name": "Basketball", "svg": "basketball_agx4.svg" },
-  { "name": "Be the hero", "svg": "be_the_hero_ssr2.svg" },
-  { "name": "Beach", "svg": "beach_56sf.svg" },
-  { "name": "Beer celebration", "svg": "beer_celebration_3wc8.svg" },
-  { "name": "Before dawn", "svg": "before_dawn_bqrj.svg" },
-  { "name": "Begin chat", "svg": "begin_chat_c6pj.svg" },
-  { "name": "Bibliophile", "svg": "Bibliophile_hwqc.svg" },
-  { "name": "Birthday cake", "svg": "birthday_cake_7df8.svg" },
-  { "name": "Bitcoin", "svg": "bitcoin2_ave7.svg" },
-  { "name": "Bitcoin P2P", "svg": "btc_p2p_lth5.svg" },
-  { "name": "Blank canvas", "svg": "blank_canvas_3rbb.svg" },
-  { "name": "Blog post", "svg": "blog_anyj.svg" },
-  { "name": "Blogging", "svg": "blogging_vpvv.svg" },
-  { "name": "Book lover", "svg": "book_lover_mkck.svg" },
-  { "name": "Booking", "svg": "booking_33fn.svg" },
-  { "name": "Bookmarks", "svg": "bookmarks_r6up.svg" },
-  { "name": "Brainstorming", "svg": "brainstorming_49d4.svg" },
-  { "name": "Broadcast", "svg": "broadcast_jhwx.svg" },
-  { "name": "Browser stats", "svg": "browser_stats_704t.svg" },
-  { "name": "Buddies", "svg": "buddies_tb1l.svg" },
-  { "name": "Buffer", "svg": "buffer_wq43.svg" },
-  { "name": "Bug fixing", "svg": "bug_fixing_oc7a.svg" },
-  { "name": "Building", "svg": "Building_vpxo.svg" },
-  { "name": "Building blocks", "svg": "building_blocks_n0nc.svg" },
-  { "name": "Bus stop", "svg": "bus_stop_h370.svg" },
-  { "name": "Business deal", "svg": "business_deal_cpi9.svg" },
-  { "name": "Business plan", "svg": "business_plan_5i9d.svg" },
-  { "name": "Businessman", "svg": "businessman_97x4.svg" },
-  { "name": "Businesswoman", "svg": "businesswoman_pc12.svg" },
-  { "name": "By my car", "svg": "by_my_car_ttge.svg" },
-  { "name": "Calculator", "svg": "Calculator_0evy.svg" },
-  { "name": "Calendar", "svg": "calendar_dutt.svg" },
-  { "name": "Calling", "svg": "calling_kpbp.svg" },
-  { "name": "Campfire", "svg": "campfire_s6y4.svg" },
-  { "name": "Camping", "svg": "Camping_2g8w.svg" },
-  { "name": "Candidate", "svg": "candidate_ubwv.svg" },
-  { "name": "career progress", "svg": "career_progress_ivdb.svg" },
-  { "name": "Cautious dog", "svg": "Cautious_dog_q83f.svg" },
-  { "name": "Celebration", "svg": "celebration_0jvk.svg" },
-  { "name": "Charts", "svg": "charts_jj6t.svg" },
-  { "name": "Chat", "svg": "chat_1wo5.svg" },
-  { "name": "Chatting", "svg": "chatting_2yvo.svg" },
-  { "name": "Checking boxes", "svg": "checking_boxes_2ibd.svg" },
-  { "name": "Checklist", "svg": "checklist_7q37.svg" },
-  { "name": "Chef", "svg": "chef_lbjx.svg" },
-  { "name": "Children", "svg": "children_4rtb.svg" },
-  { "name": "Chilling", "svg": "chilling_8tii.svg" },
-  { "name": "Choice", "svg": "choice_9385.svg" },
-  { "name": "Choose", "svg": "choose_80qg.svg" },
-  { "name": "Christmas stocking", "svg": "Christmas_stocking_wux9.svg" },
-  { "name": "Christmas tree", "svg": "christmas_tree_56sw.svg" },
-  { "name": "Circles", "svg": "circles_y7s2.svg" },
-  { "name": "City driver", "svg": "city_driver_jh2h.svg" },
-  { "name": "Cloud hosting", "svg": "cloud_hosting_aodd.svg" },
-  { "name": "Cloud sync", "svg": "cloud_sync_2aph.svg" },
-  { "name": "Co-workers", "svg": "co-workers_ujs6.svg" },
-  { "name": "Co-working", "svg": "co-working_825n.svg" },
-  { "name": "Coding", "svg": "coding_6mjf.svg" },
-  { "name": "Coffee break", "svg": "coffee_break_j3of.svg" },
-  { "name": "Collaboration", "svg": "collaboration2_8og0.svg" },
-  { "name": "Collecting", "svg": "collecting_fjjl.svg" },
-  { "name": "Collection", "svg": "collection_u2np.svg" },
-  { "name": "Community", "svg": "community_8nwl.svg" },
-  { "name": "Completed", "svg": "completed_ngx6.svg" },
-  { "name": "Compose music", "svg": "compose_music_ovo2.svg" },
-  { "name": "Conference", "svg": "conference_uo36.svg" },
-  { "name": "Conference speaker", "svg": "conference_speaker_6nt7.svg" },
-  { "name": "Confirmation", "svg": "confirmation_2uy0.svg" },
-  { "name": "Confirmed", "svg": "confirmed_81ex.svg" },
-  { "name": "Connected", "svg": "connected_8wvi.svg" },
-  { "name": "Connecting Teams", "svg": "connecting_teams3_1pgn.svg" },
-  { "name": "Contact us", "svg": "contact_us_15o2.svg" },
-  { "name": "Container ship", "svg": "Container_ship_urt4.svg" },
-  { "name": "Contemplating", "svg": "contemplating_8t0x.svg" },
-  { "name": "Content", "svg": "content_vbqo.svg" },
-  { "name": "Content creator", "svg": "content_creator_xeju.svg" },
-  { "name": "Contrast", "svg": "contrast_vb82.svg" },
-  { "name": "Control panel", "svg": "control_panel1_20gm.svg" },
-  { "name": "Conversation", "svg": "conversation_h12g.svg" },
-  { "name": "Country side", "svg": "country_side_ayop.svg" },
-  { "name": "Couple", "svg": "couple_a7s9.svg" },
-  { "name": "Create", "svg": "create_f05x.svg" },
-  { "name": "Creation process", "svg": "creation_process_vndn.svg" },
-  { "name": "Creative thinking", "svg": "creative_thinking_b3bc.svg" },
-  { "name": "Creative woman", "svg": "creative_woman_v415.svg" },
-  { "name": "Creativity", "svg": "creativity_wqmm.svg" },
-  { "name": "Credit card", "svg": "credit_card_df1m.svg" },
-  { "name": "Credit card payment", "svg": "credit_card_payment_yb88.svg" },
-  { "name": "Credit card payments", "svg": "credit_card_payment_12va.svg" },
-  { "name": "Crypto flowers", "svg": "crypto_flowers_6bgv.svg" },
-  { "name": "Customer survey", "svg": "customer_survey_f9ur.svg" },
-  { "name": "Dark alley", "svg": "dark_alley_hl3o.svg" },
-  { "name": "Dark analytics", "svg": "dark_analytics_7axy.svg" },
-  { "name": "Dashboard", "svg": "dashboard_nklg.svg" },
-  { "name": "Data", "svg": "data_xmfy.svg" },
-  { "name": "Data points", "svg": "Data_points_ubvs.svg" },
-  { "name": "Data report", "svg": "data_report_bi6l.svg" },
-  { "name": "Data trends", "svg": "data_trends_b0wg.svg" },
-  { "name": "Deliveries", "svg": "deliveries_131a.svg" },
-  { "name": "Delivery", "svg": "mail1_uab6.svg" },
-  { "name": "Departing", "svg": "departing_lsgy.svg" },
-  { "name": "Depi", "svg": "depi_wexf.svg" },
-  { "name": "Design community", "svg": "design_community_rcft.svg" },
-  { "name": "Design process", "svg": "design_process_iqqg.svg" },
-  { "name": "Design thinking", "svg": "design_thinking_x8f6.svg" },
-  { "name": "Design tools", "svg": "design_tools_42tf.svg" },
-  { "name": "Designer", "svg": "designer_kcp7.svg" },
-  { "name": "Designer girl", "svg": "designer_girl_xdmq.svg" },
-  { "name": "Designer life", "svg": "designer_life_w96d.svg" },
-  { "name": "Destination", "svg": "Destination_mcr1.svg" },
-  { "name": "Developer activity", "svg": "developer_activity_bv83.svg" },
-  { "name": "Development", "svg": "development_ouy3.svg" },
-  { "name": "Devices", "svg": "Devices_e67q.svg" },
-  { "name": "Digital nomad", "svg": "digital_nomad_9kgl.svg" },
-  { "name": "Directions", "svg": "directions_x53j.svg" },
-  { "name": "Discount", "svg": "discount_d4bd.svg" },
-  { "name": "Doctor", "svg": "doctor_kw5l.svg" },
-  { "name": "Doctors", "svg": "doctors_hwty.svg" },
-  { "name": "Documents", "svg": "files1_9ool.svg" },
-  { "name": "Dog walking", "svg": "dog_walking_0jpt.svg" },
-  { "name": "Doll play", "svg": "doll_play_evbw.svg" },
-  { "name": "Domain names", "svg": "domain_names_rdql.svg" },
-  { "name": "Download", "svg": "download_pc33.svg" },
-  { "name": "Dreamer", "svg": "dreamer_gxxi.svg" },
-  { "name": "Drone delivery", "svg": "drone_delivery_5vrm.svg" },
-  { "name": "Drone race", "svg": "drone_race_0sim.svg" },
-  { "name": "Dua Lipa", "svg": "dua_lipa_ixam.svg" },
-  { "name": "Easter egg hunt", "svg": "easter_egg_hunt_r36d.svg" },
-  { "name": "Eating together", "svg": "eating_together_tjhx.svg" },
-  { "name": "Electric car", "svg": "electric_car_b7hl.svg" },
-  { "name": "Email campaign", "svg": "email_campaign_qa8y.svg" },
-  { "name": "Email capture", "svg": "email_capture_x8kv.svg" },
-  { "name": "Emails", "svg": "emails_6uqr.svg" },
-  { "name": "Empty", "svg": "empty_xct9.svg" },
-  { "name": "Envelope", "svg": "envelope_n8lc.svg" },
-  { "name": "Environment", "svg": "environment_iaus.svg" },
-  { "name": "Ether", "svg": "ethereum_desire_wy1b.svg" },
-  { "name": "Ethereum", "svg": "ethereum_fb7n.svg" },
-  { "name": "Events", "svg": "events_2p66.svg" },
-  { "name": "Exams", "svg": "exams_g4ow.svg" },
-  { "name": "Experts", "svg": "experts3_3njd.svg" },
-  { "name": "Exploring", "svg": "exploring_1l7f.svg" },
-  { "name": "Fall is coming", "svg": "fall_is_coming_dg3x.svg" },
-  { "name": "Fans", "svg": "fans_gr54.svg" },
-  { "name": "Fashion blogging", "svg": "fashion_blogging_w9ol.svg" },
-  { "name": "Fast car", "svg": "fast_car_p4cu.svg" },
-  { "name": "Fast loading", "svg": "fast_loading_0lbh.svg" },
-  { "name": "Fatherhood", "svg": "fatherhood_7i19.svg" },
-  { "name": "Features overview", "svg": "features_overview_jg7a.svg" },
-  { "name": "Feeling blue", "svg": "feeling_blue_4b7q.svg" },
-  { "name": "Festivities", "svg": "festivities_tvvj.svg" },
-  { "name": "File bundle", "svg": "File_bundle_xl7g.svg" },
-  { "name": "File searching", "svg": "file_searching_duff.svg" },
-  { "name": "Filing system", "svg": "filing_system_b5d2.svg" },
-  { "name": "Filter", "svg": "filter_4kje.svg" },
-  { "name": "Finance", "svg": "finance_0bdk.svg" },
-  { "name": "Financial data", "svg": "financial_data_es63.svg" },
-  { "name": "Finish line", "svg": "finish_line_katerina_limpitsouni_xy20.svg" },
-  { "name": "Fireworks", "svg": "fireworks_q5ji.svg" },
-  { "name": "Firmware", "svg": "firmware_mf69.svg" },
-  { "name": "Fish bowl", "svg": "fish_bowl_uu88.svg" },
-  { "name": "Fishing", "svg": "fishing_hoxa.svg" },
-  { "name": "Fitness tracker", "svg": "fitness_tracker_3033.svg" },
-  { "name": "Floating", "svg": "floating_61u6.svg" },
-  { "name": "Focus", "svg": "focus_sey6.svg" },
-  { "name": "Folder", "svg": "folder_39kl.svg" },
-  { "name": "Follow me drone", "svg": "Follow_me_drone_kn76.svg" },
-  { "name": "Followers", "svg": "followers_4i0p.svg" },
-  { "name": "Following", "svg": "following_q0cr.svg" },
-  { "name": "For sale", "svg": "for_sale_viax.svg" },
-  { "name": "Forever", "svg": "forever_5ag7.svg" },
-  { "name": "Forgot password", "svg": "forgot_password_gi2d.svg" },
-  { "name": "Freelancer", "svg": "freelancer_b0my.svg" },
-  { "name": "Friendship", "svg": "friendship_mni7.svg" },
-  { "name": "Frozen figure", "svg": "frozen_figure_omho.svg" },
-  { "name": "Game day", "svg": "game_day_ucx9.svg" },
-  { "name": "Gaming", "svg": "gaming_6oy3.svg" },
-  { "name": "Gardening", "svg": "gardening_j8jx.svg" },
-  { "name": "GDPR", "svg": "gdpr_3xfb.svg" },
-  { "name": "Getting coffee", "svg": "getting_coffee_wntr.svg" },
-  { "name": "Gift", "svg": "gift1_sgf8.svg" },
-  { "name": "Gift card", "svg": "gift_card_6ekc.svg" },
-  { "name": "Gifts", "svg": "gifts_btw0.svg" },
-  { "name": "Girls just wanna have fun", "svg": "girl_just_wanna_have_fun_9d5u.svg" },
-  { "name": "Goal", "svg": "goal_0v5v.svg" },
-  { "name": "Going up", "svg": "going_up_ttm5.svg" },
-  { "name": "Golden gate bridge", "svg": "Golden_gate_bridge_laqs.svg" },
-  { "name": "Good doggy", "svg": "good_doggy_4wfq.svg" },
-  { "name": "Grades", "svg": "grades_j6jn.svg" },
-  { "name": "Graduation", "svg": "graduation_9x4i.svg" },
-  { "name": "Grand slam", "svg": "grand_slam_0q5r.svg" },
-  { "name": "Grandma", "svg": "gradma_wanr.svg" },
-  { "name": "Group chat", "svg": "group_chat_v059.svg" },
-  { "name": "Group selfie", "svg": "group_selfie_ijc6.svg" },
-  { "name": "Growing", "svg": "growing_rk7d.svg" },
-  { "name": "Growth analytics", "svg": "growth_analytics_8btt.svg" },
-  { "name": "Hamburger", "svg": "hamburger_91cc.svg" },
-  { "name": "Hang out", "svg": "hang_out_h9ud.svg" },
-  { "name": "Happy 2019", "svg": "happy_2019_jq3f.svg" },
-  { "name": "Happy birthday", "svg": "happy_birthday_s72n.svg" },
-  { "name": "Having fun", "svg": "having_fun_iais.svg" },
-  { "name": "Healthy habit", "svg": "healthy_habit_bh5w.svg" },
-  { "name": "Heartbroken", "svg": "heartbroken_cble.svg" },
-  { "name": "Hello", "svg": "hello_aeia.svg" },
-  { "name": "High five", "svg": "High_five_u364.svg" },
-  { "name": "Hiking", "svg": "hiking_d24r.svg" },
-  { "name": "Hiring", "svg": "hiring_cyhs.svg" },
-  { "name": "Home run", "svg": "home_run_oerh.svg" },
-  { "name": "Horror movie", "svg": "horror_movie_3988.svg" },
-  { "name": "House searching", "svg": "house_searching_n8mp.svg" },
-  { "name": "Houses", "svg": "houses3_xwf7.svg" },
-  { "name": "I can fly", "svg": "i_can_fly_7egl.svg" },
-  { "name": "Image folder", "svg": "folder_x4ft.svg" },
-  { "name": "Image post", "svg": "image_post_24iy.svg" },
-  { "name": "Image upload", "svg": "image_upload_wqh3.svg" },
-  { "name": "Images", "svg": "images_aef7.svg" },
-  { "name": "In love", "svg": "in_love_3dcq.svg" },
-  { "name": "In progress", "svg": "in_progress_ql66.svg" },
-  { "name": "In sync", "svg": "in_sync_xwsa.svg" },
-  { "name": "In the office", "svg": "in_the_office_o44c.svg" },
-  { "name": "In the pool", "svg": "in_the_pool_c5h0.svg" },
-  { "name": "In thought", "svg": "in_thought_gjsf.svg" },
-  { "name": "Inbox cleanup", "svg": "inbox_cleanup_w2ur.svg" },
-  { "name": "Influencer", "svg": "influencer_d3xx.svg" },
-  { "name": "Instant support", "svg": "instant_support_elxh.svg" },
-  { "name": "Instruction manual", "svg": "instruction_manual_cyae.svg" },
-  { "name": "Interaction design", "svg": "interaction_design_odgc.svg" },
-  { "name": "Internet on the go", "svg": "Internet_on_the_go_5xx0.svg" },
-  { "name": "Interview", "svg": "interview_rmcf.svg" },
-  { "name": "Investing", "svg": "investing_7u74.svg" },
-  { "name": "Invite", "svg": "invite_i6u7.svg" },
-  { "name": "Japan", "svg": "japan_ubgk.svg" },
-  { "name": "Jason mask", "svg": "jason_mask_t07o.svg" },
-  { "name": "JavaScript frameworks", "svg": "JavaScript_Frameworks_x21l.svg" },
-  { "name": "Job hunt", "svg": "job_hunt_byf9.svg" },
-  { "name": "Jogging", "svg": "Jogging_t14q.svg" },
-  { "name": "Journey", "svg": "journey_lwlj.svg" },
-  { "name": "Joyride", "svg": "joyride_hnno.svg" },
-  { "name": "Judge", "svg": "judge_katerina_limpitsouni_ny1q.svg" },
-  { "name": "Late at night", "svg": "late_at_night_23xk.svg" },
-  { "name": "Launching", "svg": "launching_125y.svg" },
-  { "name": "Lighthouse", "svg": "Lighthouse_frb8.svg" },
-  { "name": "Live collaboration", "svg": "live_collaboration_2r4y.svg" },
-  { "name": "Loading", "svg": "loading_frh4.svg" },
-  { "name": "Login", "svg": "login_jdch.svg" },
-  { "name": "Logistics", "svg": "logistics_x4dc.svg" },
-  { "name": "Lost", "svg": "lost_bqr2.svg" },
-  { "name": "Love", "svg": "love_xfcv.svg" },
-  { "name": "Love is in the air", "svg": "love_is_in_the_air_4mmc.svg" },
-  { "name": "Mail", "svg": "mail_2_tqip.svg" },
-  { "name": "Mail sent", "svg": "mail_cg1t.svg" },
-  { "name": "Mailbox", "svg": "mail_box_kd5i.svg" },
-  { "name": "Maintenance", "svg": "maintenance_cn7j.svg" },
-  { "name": "Make it rain", "svg": "make_it_rain_iwk4.svg" },
-  { "name": "Maker launch", "svg": "maker_launch_crhe.svg" },
-  { "name": "Makeup artist", "svg": "makeup_artist_rxn8.svg" },
-  { "name": "Making art", "svg": "making_art_759c.svg" },
-  { "name": "Map", "svg": "map_1r69.svg" },
-  { "name": "Map dark", "svg": "map_dros.svg" },
-  { "name": "Map light", "svg": "map_light_6ttm.svg" },
-  { "name": "Marilyn", "svg": "marilyn_v73y.svg" },
-  { "name": "May the force", "svg": "may_the_force_bgdm.svg" },
-  { "name": "Media player", "svg": "media_player_ylg8.svg" },
-  { "name": "Medicine", "svg": "medicine_b1ol.svg" },
-  { "name": "Meditating", "svg": "meditating_0nae.svg" },
-  { "name": "Meditation", "svg": "Meditation_o89g.svg" },
-  { "name": "Meeting", "svg": "meeting_115p.svg" },
-  { "name": "Memory storage", "svg": "Memory_storage_reh0.svg" },
-  { "name": "Message sent", "svg": "message_sent_1030.svg" },
-  { "name": "Messages", "svg": "messages1_9ah2.svg" },
-  { "name": "Messaging", "svg": "messaging_uok8.svg" },
-  { "name": "Messaging fun", "svg": "messaging_fun_86y2.svg" },
-  { "name": "Messenger", "svg": "messenger_e7iu.svg" },
-  { "name": "Metrics", "svg": "metrics_gtu7.svg" },
-  { "name": "Millennial girl", "svg": "millennial_girl_fxlt.svg" },
-  { "name": "Mind map", "svg": "mind_map_cwng.svg" },
-  { "name": "Mindfulness", "svg": "mindfulness_scgo.svg" },
-  { "name": "Mint tea", "svg": "mint_tea_7su0.svg" },
-  { "name": "Missed chances", "svg": "missed_chances_k3cq.svg" },
-  { "name": "Mission impossible", "svg": "mission_impossible_bwa2.svg" },
-  { "name": "Mobile", "svg": "mobile_prle.svg" },
-  { "name": "Mobile apps", "svg": "mobile_apps_4wgf.svg" },
-  { "name": "Mobile browsers", "svg": "mobile_browsers_lib5.svg" },
-  { "name": "Mobile life", "svg": "mobile_life_381t.svg" },
-  { "name": "Mobile marketing", "svg": "mobile_marketing_iqbr.svg" },
-  { "name": "Mobile payments", "svg": "mobile_payments_edgf.svg" },
-  { "name": "Mobile testing", "svg": "mobile_testing_reah.svg" },
-  { "name": "Modern life", "svg": "modern_life_u1ev.svg" },
-  { "name": "Modern woman", "svg": "modern_woman_9l0u.svg" },
-  { "name": "Moment to remember", "svg": "moment_to_remember_02gj.svg" },
-  { "name": "Monitor", "svg": "monitor_iqpq.svg" },
-  { "name": "More music", "svg": "more_music_w70e.svg" },
-  { "name": "Morning essentials", "svg": "morning_essentials_9fw8.svg" },
-  { "name": "Motherhood", "svg": "motherhood_7htu.svg" },
-  { "name": "Movie night", "svg": "movie_night_93wl.svg" },
-  { "name": "Moving forward", "svg": "moving_forward_lhhd.svg" },
-  { "name": "Multitasking", "svg": "multitasking_hqg3.svg" },
-  { "name": "Music", "svg": "music_r1se.svg" },
-  { "name": "Navigation", "svg": "navigation_lytx.svg" },
-  { "name": "Nerd", "svg": "man_eiev.svg" },
-  { "name": "New message", "svg": "new_message_2gfk.svg" },
-  { "name": "News", "svg": "news_go0e.svg" },
-  { "name": "Newsletter", "svg": "newsletter_vovu.svg" },
-  { "name": "Night calls", "svg": "night_calls_5jh7.svg" },
-  { "name": "Ninja", "svg": "ninja_e52b.svg" },
-  { "name": "No data", "svg": "no_data_qbuo.svg" },
-  { "name": "Note list", "svg": "note_list_etto.svg" },
-  { "name": "Notebook", "svg": "Notebook_o571.svg" },
-  { "name": "Notes", "svg": "notes1_cf55.svg" },
-  { "name": "Notify", "svg": "notify_88a4.svg" },
-  { "name": "Off road", "svg": "off_road_9oae.svg" },
-  { "name": "Old day", "svg": "old_day_6x25.svg" },
-  { "name": "On the office", "svg": "on_the_office_fbfs.svg" },
-  { "name": "On the way", "svg": "on_the_way_ldaq.svg" },
-  { "name": "Onboarding", "svg": "onboarding_o8mv.svg" },
-  { "name": "Online", "svg": "online_1qud.svg" },
-  { "name": "Online friends", "svg": "online_friends_x73e.svg" },
-  { "name": "Online shopping", "svg": "online_shopping_ga73.svg" },
-  { "name": "Online world", "svg": "online_world_mc1t.svg" },
-  { "name": "Open source", "svg": "open_source_1qxw.svg" },
-  { "name": "Opened", "svg": "opened_gi4n.svg" },
-  { "name": "Operating system", "svg": "operating_system_4lr6.svg" },
-  { "name": "Order confirmed", "svg": "order_confirmed_1m3v.svg" },
-  { "name": "Ordinary day", "svg": "ordinary_day_xi0c.svg" },
-  { "name": "Organize photos", "svg": "organize_photos_d5nr.svg" },
-  { "name": "Organize resume", "svg": "organize_resume_utk5.svg" },
-  { "name": "Organizing projects", "svg": "organizing_projects1_47ja.svg" },
-  { "name": "Outer space", "svg": "Outer_space_drqu.svg" },
-  { "name": "Page not found", "svg": "page_not_found_su7k.svg" },
-  { "name": "pair programming", "svg": "pair_programming_njlp.svg" },
-  { "name": "Passing by", "svg": "passing_by_gqfk.svg" },
-  { "name": "Payments", "svg": "payments_21w6.svg" },
-  { "name": "Pedestrian crossing", "svg": "pedestrian_crossing_l6jv.svg" },
-  { "name": "Pen tool", "svg": "pen_nqf7.svg" },
-  { "name": "People search", "svg": "people_search_wctu.svg" },
-  { "name": "Personal notes", "svg": "personal_notes_8n63.svg" },
-  { "name": "Personal settings", "svg": "personal_settings_kihd.svg" },
-  { "name": "Personal site", "svg": "personal_site_xyd1.svg" },
-  { "name": "Personal trainer", "svg": "personal_trainer_ote3.svg" },
-  { "name": "Personalization", "svg": "personalization_triu.svg" },
-  { "name": "Photo", "svg": "photo_4yb9.svg" },
-  { "name": "Photo sharing", "svg": "photo_sharing_1_85vy.svg" },
-  { "name": "Photocopy", "svg": "photocopy_gj0t.svg" },
-  { "name": "Photos", "svg": "photos_1nui.svg" },
-  { "name": "Pie chart", "svg": "pie_chart_6efe.svg" },
-  { "name": "Pilates", "svg": "pilates_gpdb.svg" },
-  { "name": "Pizza sharing", "svg": "pizza_sharing_wxop.svg" },
-  { "name": "Plain credit card", "svg": "plain_credit_card_c8b8.svg" },
-  { "name": "Playful cat", "svg": "playful_cat_ql3n.svg" },
-  { "name": "Podcast", "svg": "podcast_q6p7.svg" },
-  { "name": "Podcast audience", "svg": "podcast_audience_ddap.svg" },
-  { "name": "Portfolio", "svg": "portfolio_essv.svg" },
-  { "name": "Post", "svg": "post2_19cj.svg" },
-  { "name": "Post online", "svg": "post_online_dkuk.svg" },
-  { "name": "Posting photo", "svg": "posting_photo_v65l.svg" },
-  { "name": "Posts", "svg": "Posts_rskc.svg" },
-  { "name": "Powerful", "svg": "powerful_26ry.svg" },
-  { "name": "Preferences", "svg": "preferences_uuo2.svg" },
-  { "name": "Presentation", "svg": "presentation1_tqkp.svg" },
-  { "name": "Press play", "svg": "press_play_bx2d.svg" },
-  { "name": "Printing invoices", "svg": "printing_invoices_5r4r.svg" },
-  { "name": "Problem solving", "svg": "problem_solving_ft81.svg" },
-  { "name": "Processing", "svg": "processing_qj6a.svg" },
-  { "name": "Product hunt", "svg": "product_hunt_n3f5.svg" },
-  { "name": "Product teardown", "svg": "product_teardown_elol.svg" },
-  { "name": "Product Tour", "svg": "product_tour_foyt.svg" },
-  { "name": "Profile", "svg": "profile_6l1l.svg" },
-  { "name": "Profile data", "svg": "profile_data_mk6k.svg" },
-  { "name": "Profile pic", "svg": "profile_pic_ic5t.svg" },
-  { "name": "Programmer", "svg": "programmer_imem.svg" },
-  { "name": "Programming", "svg": "programming_2svr.svg" },
-  { "name": "Projections", "svg": "projections_7g6a.svg" },
-  { "name": "Prototyping process", "svg": "prototyping_process_rswj.svg" },
-  { "name": "QA engineers", "svg": "QA_engineers_dg5p.svg" },
-  { "name": "Questions", "svg": "questions_75e0.svg" },
-  { "name": "Queue", "svg": "queue_qt30.svg" },
-  { "name": "Quitting time", "svg": "quitting_time_dm8t.svg" },
-  { "name": "React", "svg": "react_y7wq.svg" },
-  { "name": "Reading list", "svg": "reading_list_4boi.svg" },
-  { "name": "Real-time sync", "svg": "real-time_sync_o57k.svg" },
-  { "name": "Recording", "svg": "recording_lywr.svg" },
-  { "name": "Refreshing", "svg": "refreshing_ncum.svg" },
-  { "name": "Relaxation", "svg": "relaxation_1_wbr7.svg" },
-  { "name": "Relaxing at home", "svg": "relaxing_at_home_9tyc.svg" },
-  { "name": "Report", "svg": "report_mx0a.svg" },
-  { "name": "Responsive", "svg": "responsive_6c8s.svg" },
-  { "name": "Resume", "svg": "resume_1hqp.svg" },
-  { "name": "Resume folder", "svg": "resume_folder_2_arse.svg" },
-  { "name": "Revenue", "svg": "revenue_3osh.svg" },
-  { "name": "Ride a bicycle", "svg": "Ride_a_bicycle_2yok.svg" },
-  { "name": "Rising", "svg": "rising_8svm.svg" },
-  { "name": "Robotics", "svg": "robotics_kep0.svg" },
-  { "name": "Romantic getaway", "svg": "romantic_getaway_k2mf.svg" },
-  { "name": "Running wild", "svg": "running_wild_ni0y.svg" },
-  { "name": "Safe", "svg": "safe_bnk7.svg" },
-  { "name": "Santa claus", "svg": "santa_claus_q0g4.svg" },
-  { "name": "Savings", "svg": "savings_hjfl.svg" },
-  { "name": "Schedule", "svg": "schedule_pnbk.svg" },
-  { "name": "Science", "svg": "science_fqhl.svg" },
-  { "name": "Scooter", "svg": "scooter_aia8.svg" },
-  { "name": "Scrum board", "svg": "scrum_board_cesn.svg" },
-  { "name": "Sculpting", "svg": "sculpting_1c9p.svg" },
-  { "name": "Search", "svg": "search_2dfv.svg" },
-  { "name": "Search engines", "svg": "search_engines_nn9e.svg" },
-  { "name": "Secure data", "svg": "secure_data_0rwp.svg" },
-  { "name": "Secure server", "svg": "secure_server_s9u8.svg" },
-  { "name": "Security", "svg": "security_o890.svg" },
-  { "name": "Security on", "svg": "Security_on_s9ym.svg" },
-  { "name": "Segment", "svg": "segment_uwu1.svg" },
-  { "name": "Segmentation", "svg": "segmentation_uioo.svg" },
-  { "name": "Select", "svg": "select_13cv.svg" },
-  { "name": "Selfie", "svg": "selfie1_kpqf.svg" },
-  { "name": "Selfie time", "svg": "selfie_time_cws4.svg" },
-  { "name": "Server", "svg": "server_q2pb.svg" },
-  { "name": "Server status", "svg": "server_status_5pbv.svg" },
-  { "name": "Setup", "svg": "setup_obqo.svg" },
-  { "name": "Setup analytics", "svg": "setup_analytics_8qkl.svg" },
-  { "name": "Setup wizard", "svg": "setup_wizard_r6mr.svg" },
-  { "name": "Shopping", "svg": "shopping_eii3.svg" },
-  { "name": "Site stats", "svg": "site_stats_l57q.svg" },
-  { "name": "Skateboarding", "svg": "skateboarding_929d.svg" },
-  { "name": "Sleep analysis", "svg": "sleep_analysis_o5f9.svg" },
-  { "name": "Smart home", "svg": "smart_home_28oy.svg" },
-  { "name": "Smiley face", "svg": "smiley_face_lmgm.svg" },
-  { "name": "Snowman", "svg": "snowman_1_a2ch.svg" },
-  { "name": "Social dashboard", "svg": "social_dashboard_k3pt.svg" },
-  { "name": "Social growth", "svg": "social_growth_d0y3.svg" },
-  { "name": "Social ideas", "svg": "social_ideas_e8rj.svg" },
-  { "name": "Social life", "svg": "social_life_4np1.svg" },
-  { "name": "Social media", "svg": "pcsocial_16rw.svg" },
-  { "name": "Social networking", "svg": "social_networking_nqk4.svg" },
-  { "name": "Social share", "svg": "social_share_algy.svg" },
-  { "name": "Social strategy", "svg": "social_strategy_1wuq.svg" },
-  { "name": "Social tree", "svg": "social_tree_1_y9wa.svg" },
-  { "name": "Social update", "svg": "social_update_puv0.svg" },
-  { "name": "Software engineer", "svg": "software_engineer_lvl5.svg" },
-  { "name": "Specs", "svg": "Specs_h9jt.svg" },
-  { "name": "Spreadsheets", "svg": "spreadsheets_xdjy.svg" },
-  { "name": "Stability ball", "svg": "Stability_ball_b4ia.svg" },
-  { "name": "Starman", "svg": "startman1_h7l9.svg" },
-  { "name": "Startled", "svg": "startled_8p0r.svg" },
-  { "name": "Startup life", "svg": "startup_life_2du2.svg" },
-  { "name": "Static assets", "svg": "static_assets_rpm6.svg" },
-  { "name": "Statistics", "svg": "statistics_ctoq.svg" },
-  { "name": "Status update", "svg": "status_update_jjgk.svg" },
-  { "name": "Staying in", "svg": "staying_in_i80u.svg" },
-  { "name": "Step to the sun", "svg": "step_to_the_sun_nxqq.svg" },
-  { "name": "Street food", "svg": "street_food_hm5i.svg" },
-  { "name": "Stripe payments", "svg": "stripe_payments_o7aw.svg" },
-  { "name": "Studying", "svg": "studying_s3l7.svg" },
-  { "name": "Subway", "svg": "subway_7vh7.svg" },
-  { "name": "Successful purchase", "svg": "successful_purchase_uyin.svg" },
-  { "name": "Sunny day", "svg": "sunny_day_bk3m.svg" },
-  { "name": "Super thank you", "svg": "super_thank_you_obwk.svg" },
-  { "name": "Super woman", "svg": "super_woman_dv0y.svg" },
-  { "name": "Superhero", "svg": "superhero_kguv.svg" },
-  { "name": "Surfer", "svg": "surfer_m6jb.svg" },
-  { "name": "Swipe profiles", "svg": "swipe_profiles1_i6mr.svg" },
-  { "name": "Sync", "svg": "sync4_xlc6.svg" },
-  { "name": "Synchronize", "svg": "synchronize_ccxk.svg" },
-  { "name": "Tabs", "svg": "tabs_jf82.svg" },
-  { "name": "Taken", "svg": "Taken_if77.svg" },
-  { "name": "Taking notes", "svg": "taking_notes_tjaf.svg" },
-  { "name": "Target", "svg": "target_kriv.svg" },
-  { "name": "Tasting", "svg": "tasting_de22.svg" },
-  { "name": "Teacher", "svg": "teacher_35j2.svg" },
-  { "name": "Teaching", "svg": "teaching_f1cm.svg" },
-  { "name": "Team", "svg": "team_ih79.svg" },
-  { "name": "Team page", "svg": "team_page_pgpr.svg" },
-  { "name": "Team spirit", "svg": "team_spirit_hrr4.svg" },
-  { "name": "Team work", "svg": "team_work_k80m.svg" },
-  { "name": "Teddy bear", "svg": "teddy_bear_hns1.svg" },
-  { "name": "Texting", "svg": "texting_k35o.svg" },
-  { "name": "Thoughts", "svg": "thoughts_e49y.svg" },
-  { "name": "Through the desert", "svg": "through_the_desert_fcin.svg" },
-  { "name": "Time management", "svg": "time_management_30iu.svg" },
-  { "name": "Timeline", "svg": "timeline_9u4u.svg" },
-  { "name": "To do", "svg": "to_do_xvvc.svg" },
-  { "name": "To do list", "svg": "to_do_list_a49b.svg" },
-  { "name": "To the stars", "svg": "To_the_stars_qhyy.svg" },
-  { "name": "Together", "svg": "together_j0gj.svg" },
-  { "name": "Toy car", "svg": "toy_car_7umw.svg" },
-  { "name": "Track and field", "svg": "track_and_field_33qn.svg" },
-  { "name": "Transfer files", "svg": "transfer_files_6tns.svg" },
-  { "name": "Travel booking", "svg": "travel_booking_6koc.svg" },
-  { "name": "Travelers", "svg": "travelers_qlt1.svg" },
-  { "name": "Traveling", "svg": "traveling_t8y2.svg" },
-  { "name": "Treasure", "svg": "treasure_of9i.svg" },
-  { "name": "Trip", "svg": "trip_dv9f.svg" },
-  { "name": "True friends", "svg": "true_friends_c94g.svg" },
-  { "name": "Tweetstorm", "svg": "tweetstorm_49e8.svg" },
-  { "name": "Typewriter", "svg": "typewriter_i8xd.svg" },
-  { "name": "Typing", "svg": "typing_jie3.svg" },
-  { "name": "Unboxing", "svg": "unboxing_pbmf.svg" },
-  { "name": "Under construction", "svg": "under_construction_46pa.svg" },
-  { "name": "Update", "svg": "update_uxn2.svg" },
-  { "name": "Upgrade", "svg": "upgrade_06a0.svg" },
-  { "name": "Upload", "svg": "upload_87y9.svg" },
-  { "name": "Upload image", "svg": "upload_image_iwej.svg" },
-  { "name": "Uploading", "svg": "uploading_go67.svg" },
-  { "name": "Upvote", "svg": "upvote_96dp.svg" },
-  { "name": "Usability testing", "svg": "usability_testing_2xs4.svg" },
-  { "name": "User flow", "svg": "user_flow_vr6w.svg" },
-  { "name": "Vault", "svg": "vault_9cmw.svg" },
-  { "name": "Vehicle sale", "svg": "vehicle_sale_v7fm.svg" },
-  { "name": "Version control", "svg": "version_control_9bpv.svg" },
-  { "name": "Video call", "svg": "video_call_kxyp.svg" },
-  { "name": "Videographer", "svg": "videographer_nnc7.svg" },
-  { "name": "Virtual reality", "svg": "virtual_reality_y5ig.svg" },
-  { "name": "visual data", "svg": "visual_data_b1wx.svg" },
-  { "name": "Voice control", "svg": "voice_control_ofo1.svg" },
-  { "name": "VR chat", "svg": "vr_chat_kq3p.svg" },
-  { "name": "Walk in the city", "svg": "walk_in_the_city_1ma6.svg" },
-  { "name": "Wall post", "svg": "wall_post_83ul.svg" },
-  { "name": "Wallet", "svg": "wallet_aym5.svg" },
-  { "name": "Warning", "svg": "warning_cyit.svg" },
-  { "name": "Weather", "svg": "weather_d9t2.svg" },
-  { "name": "Weather app", "svg": "weather_app_i5sm.svg" },
-  { "name": "Web devices", "svg": "web_devices_ad58.svg" },
-  { "name": "Website setup", "svg": "website_setup_5hr2.svg" },
-  { "name": "Wedding", "svg": "wedding_t1yl.svg" },
-  { "name": "Welcome", "svg": "welcome_3gvl.svg" },
-  { "name": "Wind turbine", "svg": "wind_turbine_x2k4.svg" },
-  { "name": "Window shopping", "svg": "window_shopping_b96y.svg" },
-  { "name": "Windows", "svg": "windows_q9m0.svg" },
-  { "name": "Winners", "svg": "winners_ao2o.svg" },
-  { "name": "Winter designer", "svg": "winter_designer_a2m7.svg" },
-  { "name": "Winter olympics", "svg": "Winter_olympics_p07j.svg" },
-  { "name": "Wireframing", "svg": "wireframing_nxyi.svg" },
-  { "name": "Wishes", "svg": "wishes_icyp.svg" },
-  { "name": "Witch", "svg": "witch_7uk7.svg" },
-  { "name": "Woman", "svg": "woman_mevk.svg" },
-  { "name": "Women day", "svg": "women_day_2m89.svg" },
-  { "name": "Word of mouth", "svg": "word_of_mouth_v1j9.svg" },
-  { "name": "Wordpress", "svg": "wordpress_utxt.svg" },
-  { "name": "Work chat", "svg": "work_chat_erdt.svg" },
-  { "name": "Work time", "svg": "work_time_lhoj.svg" },
-  { "name": "Working", "svg": "Working_32n9.svg" },
-  { "name": "Working late", "svg": "working_late_pukg.svg" },
-  { "name": "Working remotely", "svg": "working_remotely_jh40.svg" },
-  { "name": "Workout", "svg": "workout_gcgu.svg" },
-  { "name": "Xmas surprise", "svg": "xmas_surprise_57p1.svg" },
-  { "name": "Yacht", "svg": "Yacht_2wyo.svg" },
-  { "name": "Young and happy", "svg": "young_and_happy_hfpe.svg" },
-  { "name": "Youtube tutorial", "svg": "youtube_tutorial_2gn3.svg" }
+  {
+    "name": "3d modeling",
+    "svg": "3d_modeling_h60h.svg"
+  },
+  {
+    "name": "A day at the park",
+    "svg": "a_day_at_the_park_owg1.svg"
+  },
+  {
+    "name": "A whole year",
+    "svg": "a_whole_year_vnfm.svg"
+  },
+  {
+    "name": "About me",
+    "svg": "about_me_wa29.svg"
+  },
+  {
+    "name": "About us page",
+    "svg": "about_us_page_ee1k.svg"
+  },
+  {
+    "name": "Accept request",
+    "svg": "accept_request_vdsd.svg"
+  },
+  {
+    "name": "Accept terms",
+    "svg": "accept_terms_4in8.svg"
+  },
+  {
+    "name": "Account",
+    "svg": "account_490v.svg"
+  },
+  {
+    "name": "Active support",
+    "svg": "active_support_6rwo.svg"
+  },
+  {
+    "name": "Add files",
+    "svg": "add_file2_gvbb.svg"
+  },
+  {
+    "name": "Add notes",
+    "svg": "add_notes_8cfw.svg"
+  },
+  {
+    "name": "Add to cart",
+    "svg": "add_to_cart_vkjp.svg"
+  },
+  {
+    "name": "Add user",
+    "svg": "add_user_ipe3.svg"
+  },
+  {
+    "name": "Address",
+    "svg": "address_udes.svg"
+  },
+  {
+    "name": "Agreement",
+    "svg": "agreement_aajr.svg"
+  },
+  {
+    "name": "Air support",
+    "svg": "air_support_wy1q.svg"
+  },
+  {
+    "name": "Aircraft",
+    "svg": "aircraft_fbvl.svg"
+  },
+  {
+    "name": "Airport",
+    "svg": "airport_2581.svg"
+  },
+  {
+    "name": "Alert",
+    "svg": "alert_mc7b.svg"
+  },
+  {
+    "name": "Algolia",
+    "svg": "algolia_msba.svg"
+  },
+  {
+    "name": "Alien science",
+    "svg": "alien_science_nonm.svg"
+  },
+  {
+    "name": "Analysis",
+    "svg": "analysis_4jis.svg"
+  },
+  {
+    "name": "Analytics",
+    "svg": "analytics_5pgy.svg"
+  },
+  {
+    "name": "Android",
+    "svg": "android_jr64.svg"
+  },
+  {
+    "name": "Apartment rent",
+    "svg": "apartment_rent_o0ut.svg"
+  },
+  {
+    "name": "App installation",
+    "svg": "app_installation_mbdv.svg"
+  },
+  {
+    "name": "Appreciation",
+    "svg": "appreciation_2_v4bt.svg"
+  },
+  {
+    "name": "Around the world",
+    "svg": "around_the_world_v9nu.svg"
+  },
+  {
+    "name": "Art",
+    "svg": "art_0tat.svg"
+  },
+  {
+    "name": "Art lover",
+    "svg": "art_lover_yjfr.svg"
+  },
+  {
+    "name": "Artificial intelligence",
+    "svg": "artificial_intelligence_upfn.svg"
+  },
+  {
+    "name": "Artist",
+    "svg": "artist_b4rc.svg"
+  },
+  {
+    "name": "Astronaut",
+    "svg": "Astronaut_kwwa.svg"
+  },
+  {
+    "name": "At work",
+    "svg": "files_6b3d.svg"
+  },
+  {
+    "name": "Authentication",
+    "svg": "authentication_fsn5.svg"
+  },
+  {
+    "name": "Autumn",
+    "svg": "autumn_2_ygk5.svg"
+  },
+  {
+    "name": "Awards",
+    "svg": "awards_fieb.svg"
+  },
+  {
+    "name": "Baby",
+    "svg": "baby_ja7a.svg"
+  },
+  {
+    "name": "Back in the day",
+    "svg": "back_in_the_day_knsh.svg"
+  },
+  {
+    "name": "Back to school",
+    "svg": "back_to_school_inwc.svg"
+  },
+  {
+    "name": "Balloons",
+    "svg": "balloons_vxx5.svg"
+  },
+  {
+    "name": "Barber",
+    "svg": "barber_3uel.svg"
+  },
+  {
+    "name": "Basketball",
+    "svg": "basketball_agx4.svg"
+  },
+  {
+    "name": "Be the hero",
+    "svg": "be_the_hero_ssr2.svg"
+  },
+  {
+    "name": "Beach",
+    "svg": "beach_56sf.svg"
+  },
+  {
+    "name": "Beer celebration",
+    "svg": "beer_celebration_3wc8.svg"
+  },
+  {
+    "name": "Before dawn",
+    "svg": "before_dawn_bqrj.svg"
+  },
+  {
+    "name": "Begin chat",
+    "svg": "begin_chat_c6pj.svg"
+  },
+  {
+    "name": "Bibliophile",
+    "svg": "Bibliophile_hwqc.svg"
+  },
+  {
+    "name": "Birthday cake",
+    "svg": "birthday_cake_7df8.svg"
+  },
+  {
+    "name": "Bitcoin",
+    "svg": "bitcoin2_ave7.svg"
+  },
+  {
+    "name": "Bitcoin P2P",
+    "svg": "btc_p2p_lth5.svg"
+  },
+  {
+    "name": "Blank canvas",
+    "svg": "blank_canvas_3rbb.svg"
+  },
+  {
+    "name": "Blog post",
+    "svg": "blog_anyj.svg"
+  },
+  {
+    "name": "Blogging",
+    "svg": "blogging_vpvv.svg"
+  },
+  {
+    "name": "Book lover",
+    "svg": "book_lover_mkck.svg"
+  },
+  {
+    "name": "Booking",
+    "svg": "booking_33fn.svg"
+  },
+  {
+    "name": "Bookmarks",
+    "svg": "bookmarks_r6up.svg"
+  },
+  {
+    "name": "Brainstorming",
+    "svg": "brainstorming_49d4.svg"
+  },
+  {
+    "name": "Broadcast",
+    "svg": "broadcast_jhwx.svg"
+  },
+  {
+    "name": "Browser stats",
+    "svg": "browser_stats_704t.svg"
+  },
+  {
+    "name": "Buddies",
+    "svg": "buddies_tb1l.svg"
+  },
+  {
+    "name": "Buffer",
+    "svg": "buffer_wq43.svg"
+  },
+  {
+    "name": "Bug fixing",
+    "svg": "bug_fixing_oc7a.svg"
+  },
+  {
+    "name": "Building",
+    "svg": "Building_vpxo.svg"
+  },
+  {
+    "name": "Building blocks",
+    "svg": "building_blocks_n0nc.svg"
+  },
+  {
+    "name": "Bus stop",
+    "svg": "bus_stop_h370.svg"
+  },
+  {
+    "name": "Business deal",
+    "svg": "business_deal_cpi9.svg"
+  },
+  {
+    "name": "Business plan",
+    "svg": "business_plan_5i9d.svg"
+  },
+  {
+    "name": "Businessman",
+    "svg": "businessman_97x4.svg"
+  },
+  {
+    "name": "Businesswoman",
+    "svg": "businesswoman_pc12.svg"
+  },
+  {
+    "name": "By my car",
+    "svg": "by_my_car_ttge.svg"
+  },
+  {
+    "name": "Calculator",
+    "svg": "Calculator_0evy.svg"
+  },
+  {
+    "name": "Calendar",
+    "svg": "calendar_dutt.svg"
+  },
+  {
+    "name": "Calling",
+    "svg": "calling_kpbp.svg"
+  },
+  {
+    "name": "Campfire",
+    "svg": "campfire_s6y4.svg"
+  },
+  {
+    "name": "Camping",
+    "svg": "Camping_2g8w.svg"
+  },
+  {
+    "name": "Cancel",
+    "svg": "cancel_u1it.svg"
+  },
+  {
+    "name": "Candidate",
+    "svg": "candidate_ubwv.svg"
+  },
+  {
+    "name": "Cautious dog",
+    "svg": "Cautious_dog_q83f.svg"
+  },
+  {
+    "name": "Celebration",
+    "svg": "celebration_0jvk.svg"
+  },
+  {
+    "name": "Charts",
+    "svg": "charts_jj6t.svg"
+  },
+  {
+    "name": "Chat",
+    "svg": "chat_1wo5.svg"
+  },
+  {
+    "name": "Chatting",
+    "svg": "chatting_2yvo.svg"
+  },
+  {
+    "name": "Checking boxes",
+    "svg": "checking_boxes_2ibd.svg"
+  },
+  {
+    "name": "Checklist",
+    "svg": "checklist_7q37.svg"
+  },
+  {
+    "name": "Chef",
+    "svg": "chef_lbjx.svg"
+  },
+  {
+    "name": "Children",
+    "svg": "children_4rtb.svg"
+  },
+  {
+    "name": "Chilling",
+    "svg": "chilling_8tii.svg"
+  },
+  {
+    "name": "Choice",
+    "svg": "choice_9385.svg"
+  },
+  {
+    "name": "Choose",
+    "svg": "choose_80qg.svg"
+  },
+  {
+    "name": "Christmas stocking",
+    "svg": "Christmas_stocking_wux9.svg"
+  },
+  {
+    "name": "Christmas tree",
+    "svg": "christmas_tree_56sw.svg"
+  },
+  {
+    "name": "Circles",
+    "svg": "circles_y7s2.svg"
+  },
+  {
+    "name": "City driver",
+    "svg": "city_driver_jh2h.svg"
+  },
+  {
+    "name": "City girl",
+    "svg": "city_girl_ccpd.svg"
+  },
+  {
+    "name": "Cloud hosting",
+    "svg": "cloud_hosting_aodd.svg"
+  },
+  {
+    "name": "Cloud sync",
+    "svg": "cloud_sync_2aph.svg"
+  },
+  {
+    "name": "Co-workers",
+    "svg": "co-workers_ujs6.svg"
+  },
+  {
+    "name": "Co-working",
+    "svg": "co-working_825n.svg"
+  },
+  {
+    "name": "Code typing",
+    "svg": "code_typing_7jnv.svg"
+  },
+  {
+    "name": "Coding",
+    "svg": "coding_6mjf.svg"
+  },
+  {
+    "name": "Coffee break",
+    "svg": "coffee_break_j3of.svg"
+  },
+  {
+    "name": "Collaboration",
+    "svg": "collaboration2_8og0.svg"
+  },
+  {
+    "name": "Collecting",
+    "svg": "collecting_fjjl.svg"
+  },
+  {
+    "name": "Collection",
+    "svg": "collection_u2np.svg"
+  },
+  {
+    "name": "Community",
+    "svg": "community_8nwl.svg"
+  },
+  {
+    "name": "Completed",
+    "svg": "completed_ngx6.svg"
+  },
+  {
+    "name": "Compose music",
+    "svg": "compose_music_ovo2.svg"
+  },
+  {
+    "name": "Conference",
+    "svg": "conference_uo36.svg"
+  },
+  {
+    "name": "Conference speaker",
+    "svg": "conference_speaker_6nt7.svg"
+  },
+  {
+    "name": "Confirmation",
+    "svg": "confirmation_2uy0.svg"
+  },
+  {
+    "name": "Confirmed",
+    "svg": "confirmed_81ex.svg"
+  },
+  {
+    "name": "Connected",
+    "svg": "connected_8wvi.svg"
+  },
+  {
+    "name": "Connected world",
+    "svg": "connected_world_wuay.svg"
+  },
+  {
+    "name": "Connecting Teams",
+    "svg": "connecting_teams3_1pgn.svg"
+  },
+  {
+    "name": "Contact us",
+    "svg": "contact_us_15o2.svg"
+  },
+  {
+    "name": "Container ship",
+    "svg": "Container_ship_urt4.svg"
+  },
+  {
+    "name": "Contemplating",
+    "svg": "contemplating_8t0x.svg"
+  },
+  {
+    "name": "Content",
+    "svg": "content_vbqo.svg"
+  },
+  {
+    "name": "Content creator",
+    "svg": "content_creator_xeju.svg"
+  },
+  {
+    "name": "Contrast",
+    "svg": "contrast_vb82.svg"
+  },
+  {
+    "name": "Control panel",
+    "svg": "control_panel1_20gm.svg"
+  },
+  {
+    "name": "Conversation",
+    "svg": "conversation_h12g.svg"
+  },
+  {
+    "name": "Convert",
+    "svg": "convert_2gjv.svg"
+  },
+  {
+    "name": "Country side",
+    "svg": "country_side_ayop.svg"
+  },
+  {
+    "name": "Couple",
+    "svg": "couple_a7s9.svg"
+  },
+  {
+    "name": "Create",
+    "svg": "create_f05x.svg"
+  },
+  {
+    "name": "Creation process",
+    "svg": "creation_process_vndn.svg"
+  },
+  {
+    "name": "Creative thinking",
+    "svg": "creative_thinking_b3bc.svg"
+  },
+  {
+    "name": "Creative woman",
+    "svg": "creative_woman_v415.svg"
+  },
+  {
+    "name": "Creativity",
+    "svg": "creativity_wqmm.svg"
+  },
+  {
+    "name": "Credit card payment",
+    "svg": "credit_card_payment_yb88.svg"
+  },
+  {
+    "name": "Credit card payments",
+    "svg": "credit_card_payment_12va.svg"
+  },
+  {
+    "name": "Crypto flowers",
+    "svg": "crypto_flowers_6bgv.svg"
+  },
+  {
+    "name": "Customer survey",
+    "svg": "customer_survey_f9ur.svg"
+  },
+  {
+    "name": "Dark alley",
+    "svg": "dark_alley_hl3o.svg"
+  },
+  {
+    "name": "Dark analytics",
+    "svg": "dark_analytics_7axy.svg"
+  },
+  {
+    "name": "Dashboard",
+    "svg": "dashboard_nklg.svg"
+  },
+  {
+    "name": "Data",
+    "svg": "data_xmfy.svg"
+  },
+  {
+    "name": "Data points",
+    "svg": "Data_points_ubvs.svg"
+  },
+  {
+    "name": "Data report",
+    "svg": "data_report_bi6l.svg"
+  },
+  {
+    "name": "Data trends",
+    "svg": "data_trends_b0wg.svg"
+  },
+  {
+    "name": "Deliveries",
+    "svg": "deliveries_131a.svg"
+  },
+  {
+    "name": "Delivery",
+    "svg": "mail1_uab6.svg"
+  },
+  {
+    "name": "Departing",
+    "svg": "departing_lsgy.svg"
+  },
+  {
+    "name": "Depi",
+    "svg": "depi_wexf.svg"
+  },
+  {
+    "name": "Design community",
+    "svg": "design_community_rcft.svg"
+  },
+  {
+    "name": "Design process",
+    "svg": "design_process_iqqg.svg"
+  },
+  {
+    "name": "Design thinking",
+    "svg": "design_thinking_x8f6.svg"
+  },
+  {
+    "name": "Design tools",
+    "svg": "design_tools_42tf.svg"
+  },
+  {
+    "name": "Designer",
+    "svg": "designer_kcp7.svg"
+  },
+  {
+    "name": "Designer girl",
+    "svg": "designer_girl_xdmq.svg"
+  },
+  {
+    "name": "Designer life",
+    "svg": "designer_life_w96d.svg"
+  },
+  {
+    "name": "Destination",
+    "svg": "Destination_mcr1.svg"
+  },
+  {
+    "name": "Developer activity",
+    "svg": "developer_activity_bv83.svg"
+  },
+  {
+    "name": "Development",
+    "svg": "development_ouy3.svg"
+  },
+  {
+    "name": "Devices",
+    "svg": "Devices_e67q.svg"
+  },
+  {
+    "name": "Digital nomad",
+    "svg": "digital_nomad_9kgl.svg"
+  },
+  {
+    "name": "Directions",
+    "svg": "directions_x53j.svg"
+  },
+  {
+    "name": "Discount",
+    "svg": "discount_d4bd.svg"
+  },
+  {
+    "name": "Doctor",
+    "svg": "doctor_kw5l.svg"
+  },
+  {
+    "name": "Doctors",
+    "svg": "doctors_hwty.svg"
+  },
+  {
+    "name": "Documents",
+    "svg": "files1_9ool.svg"
+  },
+  {
+    "name": "Dog walking",
+    "svg": "dog_walking_0jpt.svg"
+  },
+  {
+    "name": "Doll play",
+    "svg": "doll_play_evbw.svg"
+  },
+  {
+    "name": "Domain names",
+    "svg": "domain_names_rdql.svg"
+  },
+  {
+    "name": "Download",
+    "svg": "download_pc33.svg"
+  },
+  {
+    "name": "Dreamer",
+    "svg": "dreamer_gxxi.svg"
+  },
+  {
+    "name": "Drone delivery",
+    "svg": "drone_delivery_5vrm.svg"
+  },
+  {
+    "name": "Drone race",
+    "svg": "drone_race_0sim.svg"
+  },
+  {
+    "name": "Dua Lipa",
+    "svg": "dua_lipa_ixam.svg"
+  },
+  {
+    "name": "Easter egg hunt",
+    "svg": "easter_egg_hunt_r36d.svg"
+  },
+  {
+    "name": "Eating together",
+    "svg": "eating_together_tjhx.svg"
+  },
+  {
+    "name": "Electric car",
+    "svg": "electric_car_b7hl.svg"
+  },
+  {
+    "name": "Email campaign",
+    "svg": "email_campaign_qa8y.svg"
+  },
+  {
+    "name": "Email capture",
+    "svg": "email_capture_x8kv.svg"
+  },
+  {
+    "name": "Emails",
+    "svg": "emails_6uqr.svg"
+  },
+  {
+    "name": "Empty",
+    "svg": "empty_xct9.svg"
+  },
+  {
+    "name": "Envelope",
+    "svg": "envelope_n8lc.svg"
+  },
+  {
+    "name": "Environment",
+    "svg": "environment_iaus.svg"
+  },
+  {
+    "name": "Ether",
+    "svg": "ethereum_desire_wy1b.svg"
+  },
+  {
+    "name": "Ethereum",
+    "svg": "ethereum_fb7n.svg"
+  },
+  {
+    "name": "Events",
+    "svg": "events_2p66.svg"
+  },
+  {
+    "name": "Exams",
+    "svg": "exams_g4ow.svg"
+  },
+  {
+    "name": "Experts",
+    "svg": "experts3_3njd.svg"
+  },
+  {
+    "name": "Exploring",
+    "svg": "exploring_1l7f.svg"
+  },
+  {
+    "name": "Fall is coming",
+    "svg": "fall_is_coming_dg3x.svg"
+  },
+  {
+    "name": "Fans",
+    "svg": "fans_gr54.svg"
+  },
+  {
+    "name": "Fashion blogging",
+    "svg": "fashion_blogging_w9ol.svg"
+  },
+  {
+    "name": "Fast car",
+    "svg": "fast_car_p4cu.svg"
+  },
+  {
+    "name": "Fast loading",
+    "svg": "fast_loading_0lbh.svg"
+  },
+  {
+    "name": "Fatherhood",
+    "svg": "fatherhood_7i19.svg"
+  },
+  {
+    "name": "Features overview",
+    "svg": "features_overview_jg7a.svg"
+  },
+  {
+    "name": "Feeling blue",
+    "svg": "feeling_blue_4b7q.svg"
+  },
+  {
+    "name": "Festivities",
+    "svg": "festivities_tvvj.svg"
+  },
+  {
+    "name": "File bundle",
+    "svg": "File_bundle_xl7g.svg"
+  },
+  {
+    "name": "File searching",
+    "svg": "file_searching_duff.svg"
+  },
+  {
+    "name": "Filing system",
+    "svg": "filing_system_b5d2.svg"
+  },
+  {
+    "name": "Filter",
+    "svg": "filter_4kje.svg"
+  },
+  {
+    "name": "Finance",
+    "svg": "finance_0bdk.svg"
+  },
+  {
+    "name": "Financial data",
+    "svg": "financial_data_es63.svg"
+  },
+  {
+    "name": "Finish line",
+    "svg": "finish_line_katerina_limpitsouni_xy20.svg"
+  },
+  {
+    "name": "Fireworks",
+    "svg": "fireworks_q5ji.svg"
+  },
+  {
+    "name": "Firmware",
+    "svg": "firmware_mf69.svg"
+  },
+  {
+    "name": "Fish bowl",
+    "svg": "fish_bowl_uu88.svg"
+  },
+  {
+    "name": "Fishing",
+    "svg": "fishing_hoxa.svg"
+  },
+  {
+    "name": "Fitness tracker",
+    "svg": "fitness_tracker_3033.svg"
+  },
+  {
+    "name": "Floating",
+    "svg": "floating_61u6.svg"
+  },
+  {
+    "name": "Focus",
+    "svg": "focus_sey6.svg"
+  },
+  {
+    "name": "Folder",
+    "svg": "folder_39kl.svg"
+  },
+  {
+    "name": "Follow me drone",
+    "svg": "Follow_me_drone_kn76.svg"
+  },
+  {
+    "name": "Followers",
+    "svg": "followers_4i0p.svg"
+  },
+  {
+    "name": "Following",
+    "svg": "following_q0cr.svg"
+  },
+  {
+    "name": "For sale",
+    "svg": "for_sale_viax.svg"
+  },
+  {
+    "name": "Forever",
+    "svg": "forever_5ag7.svg"
+  },
+  {
+    "name": "Forgot password",
+    "svg": "forgot_password_gi2d.svg"
+  },
+  {
+    "name": "Freelancer",
+    "svg": "freelancer_b0my.svg"
+  },
+  {
+    "name": "Friendship",
+    "svg": "friendship_mni7.svg"
+  },
+  {
+    "name": "Frozen figure",
+    "svg": "frozen_figure_omho.svg"
+  },
+  {
+    "name": "GDPR",
+    "svg": "gdpr_3xfb.svg"
+  },
+  {
+    "name": "Game day",
+    "svg": "game_day_ucx9.svg"
+  },
+  {
+    "name": "Gaming",
+    "svg": "gaming_6oy3.svg"
+  },
+  {
+    "name": "Gardening",
+    "svg": "gardening_j8jx.svg"
+  },
+  {
+    "name": "Getting coffee",
+    "svg": "getting_coffee_wntr.svg"
+  },
+  {
+    "name": "Gift",
+    "svg": "gift1_sgf8.svg"
+  },
+  {
+    "name": "Gift card",
+    "svg": "gift_card_6ekc.svg"
+  },
+  {
+    "name": "Gifts",
+    "svg": "gifts_btw0.svg"
+  },
+  {
+    "name": "Girls just wanna have fun",
+    "svg": "girl_just_wanna_have_fun_9d5u.svg"
+  },
+  {
+    "name": "Goal",
+    "svg": "goal_0v5v.svg"
+  },
+  {
+    "name": "Going up",
+    "svg": "going_up_ttm5.svg"
+  },
+  {
+    "name": "Golden gate bridge",
+    "svg": "Golden_gate_bridge_laqs.svg"
+  },
+  {
+    "name": "Good doggy",
+    "svg": "good_doggy_4wfq.svg"
+  },
+  {
+    "name": "Grades",
+    "svg": "grades_j6jn.svg"
+  },
+  {
+    "name": "Graduation",
+    "svg": "graduation_9x4i.svg"
+  },
+  {
+    "name": "Grand slam",
+    "svg": "grand_slam_0q5r.svg"
+  },
+  {
+    "name": "Grandma",
+    "svg": "gradma_wanr.svg"
+  },
+  {
+    "name": "Group chat",
+    "svg": "group_chat_v059.svg"
+  },
+  {
+    "name": "Group selfie",
+    "svg": "group_selfie_ijc6.svg"
+  },
+  {
+    "name": "Growing",
+    "svg": "growing_rk7d.svg"
+  },
+  {
+    "name": "Growth analytics",
+    "svg": "growth_analytics_8btt.svg"
+  },
+  {
+    "name": "Hamburger",
+    "svg": "hamburger_91cc.svg"
+  },
+  {
+    "name": "Hang out",
+    "svg": "hang_out_h9ud.svg"
+  },
+  {
+    "name": "Happy 2019",
+    "svg": "happy_2019_jq3f.svg"
+  },
+  {
+    "name": "Happy birthday",
+    "svg": "happy_birthday_s72n.svg"
+  },
+  {
+    "name": "Happy women day",
+    "svg": "happy_women_day_fbjt.svg"
+  },
+  {
+    "name": "Having fun",
+    "svg": "having_fun_iais.svg"
+  },
+  {
+    "name": "Healthy habit",
+    "svg": "healthy_habit_bh5w.svg"
+  },
+  {
+    "name": "Heartbroken",
+    "svg": "heartbroken_cble.svg"
+  },
+  {
+    "name": "Hello",
+    "svg": "hello_aeia.svg"
+  },
+  {
+    "name": "High five",
+    "svg": "High_five_u364.svg"
+  },
+  {
+    "name": "Hiking",
+    "svg": "hiking_d24r.svg"
+  },
+  {
+    "name": "Hire",
+    "svg": "hire_te5y.svg"
+  },
+  {
+    "name": "Hiring",
+    "svg": "hiring_cyhs.svg"
+  },
+  {
+    "name": "Home run",
+    "svg": "home_run_oerh.svg"
+  },
+  {
+    "name": "Horror movie",
+    "svg": "horror_movie_3988.svg"
+  },
+  {
+    "name": "House searching",
+    "svg": "house_searching_n8mp.svg"
+  },
+  {
+    "name": "Houses",
+    "svg": "houses3_xwf7.svg"
+  },
+  {
+    "name": "I can fly",
+    "svg": "i_can_fly_7egl.svg"
+  },
+  {
+    "name": "Image folder",
+    "svg": "folder_x4ft.svg"
+  },
+  {
+    "name": "Image post",
+    "svg": "image_post_24iy.svg"
+  },
+  {
+    "name": "Image upload",
+    "svg": "image_upload_wqh3.svg"
+  },
+  {
+    "name": "Images",
+    "svg": "images_aef7.svg"
+  },
+  {
+    "name": "In love",
+    "svg": "in_love_3dcq.svg"
+  },
+  {
+    "name": "In progress",
+    "svg": "in_progress_ql66.svg"
+  },
+  {
+    "name": "In sync",
+    "svg": "in_sync_xwsa.svg"
+  },
+  {
+    "name": "In the office",
+    "svg": "in_the_office_o44c.svg"
+  },
+  {
+    "name": "In the pool",
+    "svg": "in_the_pool_c5h0.svg"
+  },
+  {
+    "name": "In thought",
+    "svg": "in_thought_gjsf.svg"
+  },
+  {
+    "name": "Inbox cleanup",
+    "svg": "inbox_cleanup_w2ur.svg"
+  },
+  {
+    "name": "Influencer",
+    "svg": "influencer_d3xx.svg"
+  },
+  {
+    "name": "Instant support",
+    "svg": "instant_support_elxh.svg"
+  },
+  {
+    "name": "Instruction manual",
+    "svg": "instruction_manual_cyae.svg"
+  },
+  {
+    "name": "Interaction design",
+    "svg": "interaction_design_odgc.svg"
+  },
+  {
+    "name": "Internet on the go",
+    "svg": "Internet_on_the_go_5xx0.svg"
+  },
+  {
+    "name": "Interview",
+    "svg": "interview_rmcf.svg"
+  },
+  {
+    "name": "Into the night",
+    "svg": "into_the_night_vumi.svg"
+  },
+  {
+    "name": "Investing",
+    "svg": "investing_7u74.svg"
+  },
+  {
+    "name": "Invite",
+    "svg": "invite_i6u7.svg"
+  },
+  {
+    "name": "Japan",
+    "svg": "japan_ubgk.svg"
+  },
+  {
+    "name": "Jason mask",
+    "svg": "jason_mask_t07o.svg"
+  },
+  {
+    "name": "JavaScript frameworks",
+    "svg": "JavaScript_Frameworks_x21l.svg"
+  },
+  {
+    "name": "Job hunt",
+    "svg": "job_hunt_byf9.svg"
+  },
+  {
+    "name": "Jogging",
+    "svg": "Jogging_t14q.svg"
+  },
+  {
+    "name": "Journey",
+    "svg": "journey_lwlj.svg"
+  },
+  {
+    "name": "Joyride",
+    "svg": "joyride_hnno.svg"
+  },
+  {
+    "name": "Judge",
+    "svg": "judge_katerina_limpitsouni_ny1q.svg"
+  },
+  {
+    "name": "Knowledge",
+    "svg": "knowledge_g5gf.svg"
+  },
+  {
+    "name": "Laravel and vue",
+    "svg": "laravel_and_vue_59tp.svg"
+  },
+  {
+    "name": "Late at night",
+    "svg": "late_at_night_23xk.svg"
+  },
+  {
+    "name": "Launching",
+    "svg": "launching_125y.svg"
+  },
+  {
+    "name": "Lighthouse",
+    "svg": "Lighthouse_frb8.svg"
+  },
+  {
+    "name": "Live collaboration",
+    "svg": "live_collaboration_2r4y.svg"
+  },
+  {
+    "name": "Loading",
+    "svg": "loading_frh4.svg"
+  },
+  {
+    "name": "Login",
+    "svg": "login_jdch.svg"
+  },
+  {
+    "name": "Logistics",
+    "svg": "logistics_x4dc.svg"
+  },
+  {
+    "name": "Lost",
+    "svg": "lost_bqr2.svg"
+  },
+  {
+    "name": "Love",
+    "svg": "love_xfcv.svg"
+  },
+  {
+    "name": "Love is in the air",
+    "svg": "love_is_in_the_air_4mmc.svg"
+  },
+  {
+    "name": "Mail",
+    "svg": "mail_2_tqip.svg"
+  },
+  {
+    "name": "Mailbox",
+    "svg": "mail_box_kd5i.svg"
+  },
+  {
+    "name": "Maintenance",
+    "svg": "maintenance_cn7j.svg"
+  },
+  {
+    "name": "Make it rain",
+    "svg": "make_it_rain_iwk4.svg"
+  },
+  {
+    "name": "Maker launch",
+    "svg": "maker_launch_crhe.svg"
+  },
+  {
+    "name": "Makeup artist",
+    "svg": "makeup_artist_rxn8.svg"
+  },
+  {
+    "name": "Making art",
+    "svg": "making_art_759c.svg"
+  },
+  {
+    "name": "Map",
+    "svg": "map_1r69.svg"
+  },
+  {
+    "name": "Map light",
+    "svg": "map_light_6ttm.svg"
+  },
+  {
+    "name": "Marilyn",
+    "svg": "marilyn_v73y.svg"
+  },
+  {
+    "name": "Marketing",
+    "svg": "marketing_v0iu.svg"
+  },
+  {
+    "name": "May the force",
+    "svg": "may_the_force_bgdm.svg"
+  },
+  {
+    "name": "Media player",
+    "svg": "media_player_ylg8.svg"
+  },
+  {
+    "name": "Medicine",
+    "svg": "medicine_b1ol.svg"
+  },
+  {
+    "name": "Meditating",
+    "svg": "meditating_0nae.svg"
+  },
+  {
+    "name": "Meditation",
+    "svg": "Meditation_o89g.svg"
+  },
+  {
+    "name": "Meeting",
+    "svg": "meeting_115p.svg"
+  },
+  {
+    "name": "Memory storage",
+    "svg": "Memory_storage_reh0.svg"
+  },
+  {
+    "name": "Message sent",
+    "svg": "message_sent_1030.svg"
+  },
+  {
+    "name": "Messages",
+    "svg": "messages1_9ah2.svg"
+  },
+  {
+    "name": "Messaging",
+    "svg": "messaging_uok8.svg"
+  },
+  {
+    "name": "Messaging fun",
+    "svg": "messaging_fun_86y2.svg"
+  },
+  {
+    "name": "Messenger",
+    "svg": "messenger_e7iu.svg"
+  },
+  {
+    "name": "Metrics",
+    "svg": "metrics_gtu7.svg"
+  },
+  {
+    "name": "Millennial girl",
+    "svg": "millennial_girl_fxlt.svg"
+  },
+  {
+    "name": "Mind map",
+    "svg": "mind_map_cwng.svg"
+  },
+  {
+    "name": "Mindfulness",
+    "svg": "mindfulness_scgo.svg"
+  },
+  {
+    "name": "Mint tea",
+    "svg": "mint_tea_7su0.svg"
+  },
+  {
+    "name": "Missed chances",
+    "svg": "missed_chances_k3cq.svg"
+  },
+  {
+    "name": "Mission impossible",
+    "svg": "mission_impossible_bwa2.svg"
+  },
+  {
+    "name": "Mobile",
+    "svg": "mobile_prle.svg"
+  },
+  {
+    "name": "Mobile apps",
+    "svg": "mobile_apps_4wgf.svg"
+  },
+  {
+    "name": "Mobile browsers",
+    "svg": "mobile_browsers_lib5.svg"
+  },
+  {
+    "name": "Mobile life",
+    "svg": "mobile_life_381t.svg"
+  },
+  {
+    "name": "Mobile marketing",
+    "svg": "mobile_marketing_iqbr.svg"
+  },
+  {
+    "name": "Mobile payments",
+    "svg": "mobile_payments_edgf.svg"
+  },
+  {
+    "name": "Mobile testing",
+    "svg": "mobile_testing_reah.svg"
+  },
+  {
+    "name": "Modern life",
+    "svg": "modern_life_u1ev.svg"
+  },
+  {
+    "name": "Modern woman",
+    "svg": "modern_woman_9l0u.svg"
+  },
+  {
+    "name": "Moment to remember",
+    "svg": "moment_to_remember_02gj.svg"
+  },
+  {
+    "name": "Monitor",
+    "svg": "monitor_iqpq.svg"
+  },
+  {
+    "name": "More music",
+    "svg": "more_music_w70e.svg"
+  },
+  {
+    "name": "Morning essentials",
+    "svg": "morning_essentials_9fw8.svg"
+  },
+  {
+    "name": "Motherhood",
+    "svg": "motherhood_7htu.svg"
+  },
+  {
+    "name": "Movie night",
+    "svg": "movie_night_93wl.svg"
+  },
+  {
+    "name": "Moving forward",
+    "svg": "moving_forward_lhhd.svg"
+  },
+  {
+    "name": "Multitasking",
+    "svg": "multitasking_hqg3.svg"
+  },
+  {
+    "name": "Music",
+    "svg": "music_r1se.svg"
+  },
+  {
+    "name": "My password",
+    "svg": "my_password_d6kg.svg"
+  },
+  {
+    "name": "Navigation",
+    "svg": "navigation_lytx.svg"
+  },
+  {
+    "name": "Nerd",
+    "svg": "man_eiev.svg"
+  },
+  {
+    "name": "New message",
+    "svg": "new_message_2gfk.svg"
+  },
+  {
+    "name": "News",
+    "svg": "news_go0e.svg"
+  },
+  {
+    "name": "Newsletter",
+    "svg": "newsletter_vovu.svg"
+  },
+  {
+    "name": "Night calls",
+    "svg": "night_calls_5jh7.svg"
+  },
+  {
+    "name": "Ninja",
+    "svg": "ninja_e52b.svg"
+  },
+  {
+    "name": "No data",
+    "svg": "no_data_qbuo.svg"
+  },
+  {
+    "name": "Note list",
+    "svg": "note_list_etto.svg"
+  },
+  {
+    "name": "Notebook",
+    "svg": "Notebook_o571.svg"
+  },
+  {
+    "name": "Notes",
+    "svg": "notes1_cf55.svg"
+  },
+  {
+    "name": "Notify",
+    "svg": "notify_88a4.svg"
+  },
+  {
+    "name": "Off road",
+    "svg": "off_road_9oae.svg"
+  },
+  {
+    "name": "Old day",
+    "svg": "old_day_6x25.svg"
+  },
+  {
+    "name": "On the office",
+    "svg": "on_the_office_fbfs.svg"
+  },
+  {
+    "name": "On the way",
+    "svg": "on_the_way_ldaq.svg"
+  },
+  {
+    "name": "Onboarding",
+    "svg": "onboarding_o8mv.svg"
+  },
+  {
+    "name": "Online",
+    "svg": "online_1qud.svg"
+  },
+  {
+    "name": "Online friends",
+    "svg": "online_friends_x73e.svg"
+  },
+  {
+    "name": "Online shopping",
+    "svg": "online_shopping_ga73.svg"
+  },
+  {
+    "name": "Online wishes",
+    "svg": "online_wishes_dlmr.svg"
+  },
+  {
+    "name": "Online world",
+    "svg": "online_world_mc1t.svg"
+  },
+  {
+    "name": "Open source",
+    "svg": "open_source_1qxw.svg"
+  },
+  {
+    "name": "Opened",
+    "svg": "opened_gi4n.svg"
+  },
+  {
+    "name": "Operating system",
+    "svg": "operating_system_4lr6.svg"
+  },
+  {
+    "name": "Order confirmed",
+    "svg": "order_confirmed_1m3v.svg"
+  },
+  {
+    "name": "Ordinary day",
+    "svg": "ordinary_day_xi0c.svg"
+  },
+  {
+    "name": "Organize photos",
+    "svg": "organize_photos_d5nr.svg"
+  },
+  {
+    "name": "Organize resume",
+    "svg": "organize_resume_utk5.svg"
+  },
+  {
+    "name": "Organizing projects",
+    "svg": "organizing_projects1_47ja.svg"
+  },
+  {
+    "name": "Outer space",
+    "svg": "Outer_space_drqu.svg"
+  },
+  {
+    "name": "Page not found",
+    "svg": "page_not_found_su7k.svg"
+  },
+  {
+    "name": "Palette",
+    "svg": "palette_110c.svg"
+  },
+  {
+    "name": "Passing by",
+    "svg": "passing_by_gqfk.svg"
+  },
+  {
+    "name": "Payments",
+    "svg": "payments_21w6.svg"
+  },
+  {
+    "name": "Pedestrian crossing",
+    "svg": "pedestrian_crossing_l6jv.svg"
+  },
+  {
+    "name": "Pen tool",
+    "svg": "pen_nqf7.svg"
+  },
+  {
+    "name": "People search",
+    "svg": "people_search_wctu.svg"
+  },
+  {
+    "name": "Personal data",
+    "svg": "personal_data_29co.svg"
+  },
+  {
+    "name": "Personal notes",
+    "svg": "personal_notes_8n63.svg"
+  },
+  {
+    "name": "Personal settings",
+    "svg": "personal_settings_kihd.svg"
+  },
+  {
+    "name": "Personal site",
+    "svg": "personal_site_xyd1.svg"
+  },
+  {
+    "name": "Personal trainer",
+    "svg": "personal_trainer_ote3.svg"
+  },
+  {
+    "name": "Personalization",
+    "svg": "personalization_triu.svg"
+  },
+  {
+    "name": "Photo",
+    "svg": "photo_4yb9.svg"
+  },
+  {
+    "name": "Photo sharing",
+    "svg": "photo_sharing_1_85vy.svg"
+  },
+  {
+    "name": "Photocopy",
+    "svg": "photocopy_gj0t.svg"
+  },
+  {
+    "name": "Photos",
+    "svg": "photos_1nui.svg"
+  },
+  {
+    "name": "Pie chart",
+    "svg": "pie_chart_6efe.svg"
+  },
+  {
+    "name": "Pilates",
+    "svg": "pilates_gpdb.svg"
+  },
+  {
+    "name": "Pizza sharing",
+    "svg": "pizza_sharing_wxop.svg"
+  },
+  {
+    "name": "Plain credit card",
+    "svg": "plain_credit_card_c8b8.svg"
+  },
+  {
+    "name": "Playful cat",
+    "svg": "playful_cat_ql3n.svg"
+  },
+  {
+    "name": "Podcast",
+    "svg": "podcast_q6p7.svg"
+  },
+  {
+    "name": "Podcast audience",
+    "svg": "podcast_audience_ddap.svg"
+  },
+  {
+    "name": "Portfolio",
+    "svg": "portfolio_essv.svg"
+  },
+  {
+    "name": "Post",
+    "svg": "post2_19cj.svg"
+  },
+  {
+    "name": "Post online",
+    "svg": "post_online_dkuk.svg"
+  },
+  {
+    "name": "Posting photo",
+    "svg": "posting_photo_v65l.svg"
+  },
+  {
+    "name": "Posts",
+    "svg": "Posts_rskc.svg"
+  },
+  {
+    "name": "Powerful",
+    "svg": "powerful_26ry.svg"
+  },
+  {
+    "name": "Preferences",
+    "svg": "preferences_uuo2.svg"
+  },
+  {
+    "name": "Presentation",
+    "svg": "presentation1_tqkp.svg"
+  },
+  {
+    "name": "Press play",
+    "svg": "press_play_bx2d.svg"
+  },
+  {
+    "name": "Printing invoices",
+    "svg": "printing_invoices_5r4r.svg"
+  },
+  {
+    "name": "Problem solving",
+    "svg": "problem_solving_ft81.svg"
+  },
+  {
+    "name": "Processing",
+    "svg": "processing_qj6a.svg"
+  },
+  {
+    "name": "Product Tour",
+    "svg": "product_tour_foyt.svg"
+  },
+  {
+    "name": "Product hunt",
+    "svg": "product_hunt_n3f5.svg"
+  },
+  {
+    "name": "Product teardown",
+    "svg": "product_teardown_elol.svg"
+  },
+  {
+    "name": "Profile",
+    "svg": "profile_6l1l.svg"
+  },
+  {
+    "name": "Profile data",
+    "svg": "profile_data_mk6k.svg"
+  },
+  {
+    "name": "Profile pic",
+    "svg": "profile_pic_ic5t.svg"
+  },
+  {
+    "name": "Programmer",
+    "svg": "programmer_imem.svg"
+  },
+  {
+    "name": "Programming",
+    "svg": "programming_2svr.svg"
+  },
+  {
+    "name": "Projections",
+    "svg": "projections_7g6a.svg"
+  },
+  {
+    "name": "Prototyping process",
+    "svg": "prototyping_process_rswj.svg"
+  },
+  {
+    "name": "QA engineers",
+    "svg": "QA_engineers_dg5p.svg"
+  },
+  {
+    "name": "Questions",
+    "svg": "questions_75e0.svg"
+  },
+  {
+    "name": "Queue",
+    "svg": "queue_qt30.svg"
+  },
+  {
+    "name": "Quitting time",
+    "svg": "quitting_time_dm8t.svg"
+  },
+  {
+    "name": "React",
+    "svg": "react_y7wq.svg"
+  },
+  {
+    "name": "Reading list",
+    "svg": "reading_list_4boi.svg"
+  },
+  {
+    "name": "Real-time sync",
+    "svg": "real-time_sync_o57k.svg"
+  },
+  {
+    "name": "Recording",
+    "svg": "recording_lywr.svg"
+  },
+  {
+    "name": "Refreshing",
+    "svg": "refreshing_ncum.svg"
+  },
+  {
+    "name": "Relaxation",
+    "svg": "relaxation_1_wbr7.svg"
+  },
+  {
+    "name": "Relaxing at home",
+    "svg": "relaxing_at_home_9tyc.svg"
+  },
+  {
+    "name": "Report",
+    "svg": "report_mx0a.svg"
+  },
+  {
+    "name": "Responsive",
+    "svg": "responsive_6c8s.svg"
+  },
+  {
+    "name": "Resume",
+    "svg": "resume_1hqp.svg"
+  },
+  {
+    "name": "Resume folder",
+    "svg": "resume_folder_2_arse.svg"
+  },
+  {
+    "name": "Revenue",
+    "svg": "revenue_3osh.svg"
+  },
+  {
+    "name": "Ride a bicycle",
+    "svg": "Ride_a_bicycle_2yok.svg"
+  },
+  {
+    "name": "Rising",
+    "svg": "rising_8svm.svg"
+  },
+  {
+    "name": "Robotics",
+    "svg": "robotics_kep0.svg"
+  },
+  {
+    "name": "Romantic getaway",
+    "svg": "romantic_getaway_k2mf.svg"
+  },
+  {
+    "name": "Running wild",
+    "svg": "running_wild_ni0y.svg"
+  },
+  {
+    "name": "Safe",
+    "svg": "safe_bnk7.svg"
+  },
+  {
+    "name": "Santa claus",
+    "svg": "santa_claus_q0g4.svg"
+  },
+  {
+    "name": "Savings",
+    "svg": "savings_hjfl.svg"
+  },
+  {
+    "name": "Schedule",
+    "svg": "schedule_pnbk.svg"
+  },
+  {
+    "name": "Science",
+    "svg": "science_fqhl.svg"
+  },
+  {
+    "name": "Scooter",
+    "svg": "scooter_aia8.svg"
+  },
+  {
+    "name": "Scrum board",
+    "svg": "scrum_board_cesn.svg"
+  },
+  {
+    "name": "Sculpting",
+    "svg": "sculpting_1c9p.svg"
+  },
+  {
+    "name": "Search engines",
+    "svg": "search_engines_nn9e.svg"
+  },
+  {
+    "name": "Secure data",
+    "svg": "secure_data_0rwp.svg"
+  },
+  {
+    "name": "Secure server",
+    "svg": "secure_server_s9u8.svg"
+  },
+  {
+    "name": "Security",
+    "svg": "security_o890.svg"
+  },
+  {
+    "name": "Security on",
+    "svg": "Security_on_s9ym.svg"
+  },
+  {
+    "name": "Segment",
+    "svg": "segment_uwu1.svg"
+  },
+  {
+    "name": "Segmentation",
+    "svg": "segmentation_uioo.svg"
+  },
+  {
+    "name": "Select",
+    "svg": "select_13cv.svg"
+  },
+  {
+    "name": "Selfie",
+    "svg": "selfie1_kpqf.svg"
+  },
+  {
+    "name": "Selfie time",
+    "svg": "selfie_time_cws4.svg"
+  },
+  {
+    "name": "Server",
+    "svg": "server_q2pb.svg"
+  },
+  {
+    "name": "Server down",
+    "svg": "server_down_s4lk.svg"
+  },
+  {
+    "name": "Server status",
+    "svg": "server_status_5pbv.svg"
+  },
+  {
+    "name": "Setup",
+    "svg": "setup_obqo.svg"
+  },
+  {
+    "name": "Setup analytics",
+    "svg": "setup_analytics_8qkl.svg"
+  },
+  {
+    "name": "Setup wizard",
+    "svg": "setup_wizard_r6mr.svg"
+  },
+  {
+    "name": "Shopping",
+    "svg": "shopping_eii3.svg"
+  },
+  {
+    "name": "Site stats",
+    "svg": "site_stats_l57q.svg"
+  },
+  {
+    "name": "Skateboarding",
+    "svg": "skateboarding_929d.svg"
+  },
+  {
+    "name": "Sleep analysis",
+    "svg": "sleep_analysis_o5f9.svg"
+  },
+  {
+    "name": "Smart home",
+    "svg": "smart_home_28oy.svg"
+  },
+  {
+    "name": "Smiley face",
+    "svg": "smiley_face_lmgm.svg"
+  },
+  {
+    "name": "Snowman",
+    "svg": "snowman_1_a2ch.svg"
+  },
+  {
+    "name": "Social dashboard",
+    "svg": "social_dashboard_k3pt.svg"
+  },
+  {
+    "name": "Social growth",
+    "svg": "social_growth_d0y3.svg"
+  },
+  {
+    "name": "Social ideas",
+    "svg": "social_ideas_e8rj.svg"
+  },
+  {
+    "name": "Social life",
+    "svg": "social_life_4np1.svg"
+  },
+  {
+    "name": "Social networking",
+    "svg": "social_networking_nqk4.svg"
+  },
+  {
+    "name": "Social share",
+    "svg": "social_share_algy.svg"
+  },
+  {
+    "name": "Social strategy",
+    "svg": "social_strategy_1wuq.svg"
+  },
+  {
+    "name": "Social tree",
+    "svg": "social_tree_1_y9wa.svg"
+  },
+  {
+    "name": "Social update",
+    "svg": "social_update_puv0.svg"
+  },
+  {
+    "name": "Software engineer",
+    "svg": "software_engineer_lvl5.svg"
+  },
+  {
+    "name": "Specs",
+    "svg": "Specs_h9jt.svg"
+  },
+  {
+    "name": "Spreadsheets",
+    "svg": "spreadsheets_xdjy.svg"
+  },
+  {
+    "name": "Stability ball",
+    "svg": "Stability_ball_b4ia.svg"
+  },
+  {
+    "name": "Starman",
+    "svg": "startman1_h7l9.svg"
+  },
+  {
+    "name": "Startled",
+    "svg": "startled_8p0r.svg"
+  },
+  {
+    "name": "Startup life",
+    "svg": "startup_life_2du2.svg"
+  },
+  {
+    "name": "Static assets",
+    "svg": "static_assets_rpm6.svg"
+  },
+  {
+    "name": "Statistics",
+    "svg": "statistics_ctoq.svg"
+  },
+  {
+    "name": "Status update",
+    "svg": "status_update_jjgk.svg"
+  },
+  {
+    "name": "Staying in",
+    "svg": "staying_in_i80u.svg"
+  },
+  {
+    "name": "Step to the sun",
+    "svg": "step_to_the_sun_nxqq.svg"
+  },
+  {
+    "name": "Street food",
+    "svg": "street_food_hm5i.svg"
+  },
+  {
+    "name": "Stripe payments",
+    "svg": "stripe_payments_o7aw.svg"
+  },
+  {
+    "name": "Studying",
+    "svg": "studying_s3l7.svg"
+  },
+  {
+    "name": "Subway",
+    "svg": "subway_7vh7.svg"
+  },
+  {
+    "name": "Successful purchase",
+    "svg": "successful_purchase_uyin.svg"
+  },
+  {
+    "name": "Sunny day",
+    "svg": "sunny_day_bk3m.svg"
+  },
+  {
+    "name": "Super thank you",
+    "svg": "super_thank_you_obwk.svg"
+  },
+  {
+    "name": "Super woman",
+    "svg": "super_woman_dv0y.svg"
+  },
+  {
+    "name": "Superhero",
+    "svg": "superhero_kguv.svg"
+  },
+  {
+    "name": "Surfer",
+    "svg": "surfer_m6jb.svg"
+  },
+  {
+    "name": "Swipe profiles",
+    "svg": "swipe_profiles1_i6mr.svg"
+  },
+  {
+    "name": "Sync",
+    "svg": "sync4_xlc6.svg"
+  },
+  {
+    "name": "Synchronize",
+    "svg": "synchronize_ccxk.svg"
+  },
+  {
+    "name": "Tabs",
+    "svg": "tabs_jf82.svg"
+  },
+  {
+    "name": "Taken",
+    "svg": "Taken_if77.svg"
+  },
+  {
+    "name": "Taking notes",
+    "svg": "taking_notes_tjaf.svg"
+  },
+  {
+    "name": "Target",
+    "svg": "target_kriv.svg"
+  },
+  {
+    "name": "Task",
+    "svg": "task_31wc.svg"
+  },
+  {
+    "name": "Tasting",
+    "svg": "tasting_de22.svg"
+  },
+  {
+    "name": "Teacher",
+    "svg": "teacher_35j2.svg"
+  },
+  {
+    "name": "Teaching",
+    "svg": "teaching_f1cm.svg"
+  },
+  {
+    "name": "Team",
+    "svg": "team_ih79.svg"
+  },
+  {
+    "name": "Team page",
+    "svg": "team_page_pgpr.svg"
+  },
+  {
+    "name": "Team spirit",
+    "svg": "team_spirit_hrr4.svg"
+  },
+  {
+    "name": "Team work",
+    "svg": "team_work_k80m.svg"
+  },
+  {
+    "name": "Teddy bear",
+    "svg": "teddy_bear_hns1.svg"
+  },
+  {
+    "name": "Texting",
+    "svg": "texting_k35o.svg"
+  },
+  {
+    "name": "Thoughts",
+    "svg": "thoughts_e49y.svg"
+  },
+  {
+    "name": "Through the desert",
+    "svg": "through_the_desert_fcin.svg"
+  },
+  {
+    "name": "Time management",
+    "svg": "time_management_30iu.svg"
+  },
+  {
+    "name": "Timeline",
+    "svg": "timeline_9u4u.svg"
+  },
+  {
+    "name": "To do",
+    "svg": "to_do_xvvc.svg"
+  },
+  {
+    "name": "To do list",
+    "svg": "to_do_list_a49b.svg"
+  },
+  {
+    "name": "To the stars",
+    "svg": "To_the_stars_qhyy.svg"
+  },
+  {
+    "name": "Together",
+    "svg": "together_j0gj.svg"
+  },
+  {
+    "name": "Toy car",
+    "svg": "toy_car_7umw.svg"
+  },
+  {
+    "name": "Track and field",
+    "svg": "track_and_field_33qn.svg"
+  },
+  {
+    "name": "Transfer files",
+    "svg": "transfer_files_6tns.svg"
+  },
+  {
+    "name": "Travel booking",
+    "svg": "travel_booking_6koc.svg"
+  },
+  {
+    "name": "Travelers",
+    "svg": "travelers_qlt1.svg"
+  },
+  {
+    "name": "Traveling",
+    "svg": "traveling_t8y2.svg"
+  },
+  {
+    "name": "Treasure",
+    "svg": "treasure_of9i.svg"
+  },
+  {
+    "name": "Trip",
+    "svg": "trip_dv9f.svg"
+  },
+  {
+    "name": "True friends",
+    "svg": "true_friends_c94g.svg"
+  },
+  {
+    "name": "Tweetstorm",
+    "svg": "tweetstorm_49e8.svg"
+  },
+  {
+    "name": "Typewriter",
+    "svg": "typewriter_i8xd.svg"
+  },
+  {
+    "name": "Typing",
+    "svg": "typing_jie3.svg"
+  },
+  {
+    "name": "Unboxing",
+    "svg": "unboxing_pbmf.svg"
+  },
+  {
+    "name": "Under construction",
+    "svg": "under_construction_46pa.svg"
+  },
+  {
+    "name": "Update",
+    "svg": "update_uxn2.svg"
+  },
+  {
+    "name": "Upgrade",
+    "svg": "upgrade_06a0.svg"
+  },
+  {
+    "name": "Upload",
+    "svg": "upload_87y9.svg"
+  },
+  {
+    "name": "Upload image",
+    "svg": "upload_image_iwej.svg"
+  },
+  {
+    "name": "Uploading",
+    "svg": "uploading_go67.svg"
+  },
+  {
+    "name": "Upvote",
+    "svg": "upvote_96dp.svg"
+  },
+  {
+    "name": "Usability testing",
+    "svg": "usability_testing_2xs4.svg"
+  },
+  {
+    "name": "User flow",
+    "svg": "user_flow_vr6w.svg"
+  },
+  {
+    "name": "VR chat",
+    "svg": "vr_chat_kq3p.svg"
+  },
+  {
+    "name": "Vault",
+    "svg": "vault_9cmw.svg"
+  },
+  {
+    "name": "Vehicle sale",
+    "svg": "vehicle_sale_v7fm.svg"
+  },
+  {
+    "name": "Version control",
+    "svg": "version_control_9bpv.svg"
+  },
+  {
+    "name": "Video call",
+    "svg": "video_call_kxyp.svg"
+  },
+  {
+    "name": "Videographer",
+    "svg": "videographer_nnc7.svg"
+  },
+  {
+    "name": "Virtual reality",
+    "svg": "virtual_reality_y5ig.svg"
+  },
+  {
+    "name": "Voice control",
+    "svg": "voice_control_ofo1.svg"
+  },
+  {
+    "name": "Walk in the city",
+    "svg": "walk_in_the_city_1ma6.svg"
+  },
+  {
+    "name": "Wall post",
+    "svg": "wall_post_83ul.svg"
+  },
+  {
+    "name": "Wallet",
+    "svg": "wallet_aym5.svg"
+  },
+  {
+    "name": "Warning",
+    "svg": "warning_cyit.svg"
+  },
+  {
+    "name": "Weather",
+    "svg": "weather_d9t2.svg"
+  },
+  {
+    "name": "Weather app",
+    "svg": "weather_app_i5sm.svg"
+  },
+  {
+    "name": "Web devices",
+    "svg": "web_devices_ad58.svg"
+  },
+  {
+    "name": "Website setup",
+    "svg": "website_setup_5hr2.svg"
+  },
+  {
+    "name": "Wedding",
+    "svg": "wedding_t1yl.svg"
+  },
+  {
+    "name": "Welcome",
+    "svg": "welcome_3gvl.svg"
+  },
+  {
+    "name": "Wind turbine",
+    "svg": "wind_turbine_x2k4.svg"
+  },
+  {
+    "name": "Window shopping",
+    "svg": "window_shopping_b96y.svg"
+  },
+  {
+    "name": "Windows",
+    "svg": "windows_q9m0.svg"
+  },
+  {
+    "name": "Winners",
+    "svg": "winners_ao2o.svg"
+  },
+  {
+    "name": "Winter designer",
+    "svg": "winter_designer_a2m7.svg"
+  },
+  {
+    "name": "Winter olympics",
+    "svg": "Winter_olympics_p07j.svg"
+  },
+  {
+    "name": "Wireframing",
+    "svg": "wireframing_nxyi.svg"
+  },
+  {
+    "name": "Wishes",
+    "svg": "wishes_icyp.svg"
+  },
+  {
+    "name": "Witch",
+    "svg": "witch_7uk7.svg"
+  },
+  {
+    "name": "Woman",
+    "svg": "woman_mevk.svg"
+  },
+  {
+    "name": "Women day",
+    "svg": "women_day_2m89.svg"
+  },
+  {
+    "name": "Word of mouth",
+    "svg": "word_of_mouth_v1j9.svg"
+  },
+  {
+    "name": "Wordpress",
+    "svg": "wordpress_utxt.svg"
+  },
+  {
+    "name": "Work chat",
+    "svg": "work_chat_erdt.svg"
+  },
+  {
+    "name": "Work time",
+    "svg": "work_time_lhoj.svg"
+  },
+  {
+    "name": "Working",
+    "svg": "Working_32n9.svg"
+  },
+  {
+    "name": "Working late",
+    "svg": "working_late_pukg.svg"
+  },
+  {
+    "name": "Working remotely",
+    "svg": "working_remotely_jh40.svg"
+  },
+  {
+    "name": "Workout",
+    "svg": "workout_gcgu.svg"
+  },
+  {
+    "name": "World",
+    "svg": "world_9iqb.svg"
+  },
+  {
+    "name": "Xmas surprise",
+    "svg": "xmas_surprise_57p1.svg"
+  },
+  {
+    "name": "Yacht",
+    "svg": "Yacht_2wyo.svg"
+  },
+  {
+    "name": "Young and happy",
+    "svg": "young_and_happy_hfpe.svg"
+  },
+  {
+    "name": "Youtube tutorial",
+    "svg": "youtube_tutorial_2gn3.svg"
+  },
+  {
+    "name": "career progress",
+    "svg": "career_progress_ivdb.svg"
+  },
+  {
+    "name": "pair programming",
+    "svg": "pair_programming_njlp.svg"
+  },
+  {
+    "name": "visual data",
+    "svg": "visual_data_b1wx.svg"
+  }
 ]

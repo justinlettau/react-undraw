@@ -81,6 +81,7 @@
     "@svgr/plugin-svgo": "^4.0.3",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
+    "cheerio": "^1.0.0-rc.2",
     "cross-env": "^5.2.0",
     "dashify": "^2.0.0",
     "eslint-config-airbnb": "^17.1.0",
@@ -98,6 +99,8 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "^2.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
     "rimraf": "^2.6.2",
     "standard-version": "^5.0.0"
   },
