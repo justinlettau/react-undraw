@@ -316,6 +316,10 @@
     "svg": "candidate_ubwv.svg"
   },
   {
+    "name": "career progress",
+    "svg": "career_progress_ivdb.svg"
+  },
+  {
     "name": "Cautious dog",
     "svg": "Cautious_dog_q83f.svg"
   },
@@ -526,6 +530,10 @@
   {
     "name": "Creativity",
     "svg": "creativity_wqmm.svg"
+  },
+  {
+    "name": "Credit card",
+    "svg": "credit_card_df1m.svg"
   },
   {
     "name": "Credit card payment",
@@ -880,10 +888,6 @@
     "svg": "frozen_figure_omho.svg"
   },
   {
-    "name": "GDPR",
-    "svg": "gdpr_3xfb.svg"
-  },
-  {
     "name": "Game day",
     "svg": "game_day_ucx9.svg"
   },
@@ -894,6 +898,10 @@
   {
     "name": "Gardening",
     "svg": "gardening_j8jx.svg"
+  },
+  {
+    "name": "GDPR",
+    "svg": "gdpr_3xfb.svg"
   },
   {
     "name": "Getting coffee",
@@ -1200,6 +1208,10 @@
     "svg": "mail_2_tqip.svg"
   },
   {
+    "name": "Mail sent",
+    "svg": "mail_cg1t.svg"
+  },
+  {
     "name": "Mailbox",
     "svg": "mail_box_kd5i.svg"
   },
@@ -1226,6 +1238,10 @@
   {
     "name": "Map",
     "svg": "map_1r69.svg"
+  },
+  {
+    "name": "Map dark",
+    "svg": "map_dros.svg"
   },
   {
     "name": "Map light",
@@ -1520,6 +1536,10 @@
     "svg": "page_not_found_su7k.svg"
   },
   {
+    "name": "pair programming",
+    "svg": "pair_programming_njlp.svg"
+  },
+  {
     "name": "Palette",
     "svg": "palette_110c.svg"
   },
@@ -1660,16 +1680,16 @@
     "svg": "processing_qj6a.svg"
   },
   {
-    "name": "Product Tour",
-    "svg": "product_tour_foyt.svg"
-  },
-  {
     "name": "Product hunt",
     "svg": "product_hunt_n3f5.svg"
   },
   {
     "name": "Product teardown",
     "svg": "product_teardown_elol.svg"
+  },
+  {
+    "name": "Product Tour",
+    "svg": "product_tour_foyt.svg"
   },
   {
     "name": "Profile",
@@ -1816,6 +1836,10 @@
     "svg": "sculpting_1c9p.svg"
   },
   {
+    "name": "Search",
+    "svg": "search_2dfv.svg"
+  },
+  {
     "name": "Search engines",
     "svg": "search_engines_nn9e.svg"
   },
@@ -1922,6 +1946,10 @@
   {
     "name": "Social life",
     "svg": "social_life_4np1.svg"
+  },
+  {
+    "name": "Social media",
+    "svg": "pcsocial_16rw.svg"
   },
   {
     "name": "Social networking",
@@ -2220,10 +2248,6 @@
     "svg": "user_flow_vr6w.svg"
   },
   {
-    "name": "VR chat",
-    "svg": "vr_chat_kq3p.svg"
-  },
-  {
     "name": "Vault",
     "svg": "vault_9cmw.svg"
   },
@@ -2248,8 +2272,16 @@
     "svg": "virtual_reality_y5ig.svg"
   },
   {
+    "name": "visual data",
+    "svg": "visual_data_b1wx.svg"
+  },
+  {
     "name": "Voice control",
     "svg": "voice_control_ofo1.svg"
+  },
+  {
+    "name": "VR chat",
+    "svg": "vr_chat_kq3p.svg"
   },
   {
     "name": "Walk in the city",
@@ -2386,17 +2418,5 @@
   {
     "name": "Youtube tutorial",
     "svg": "youtube_tutorial_2gn3.svg"
-  },
-  {
-    "name": "career progress",
-    "svg": "career_progress_ivdb.svg"
-  },
-  {
-    "name": "pair programming",
-    "svg": "pair_programming_njlp.svg"
-  },
-  {
-    "name": "visual data",
-    "svg": "visual_data_b1wx.svg"
   }
 ]

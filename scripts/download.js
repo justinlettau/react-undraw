@@ -14,7 +14,7 @@ function buildIlustrationsJson() {
   const promises = [];
   const data = [];
 
-  for (let i = 0; i < 31; i++) {
+  for (let i = 0; i < 35; i++) {
     promises.push(
       rp(crawlUrl(i))
         .then(function(html) {

@@ -2,7 +2,7 @@
 
 # Illustrations
 
-600 illustrations available.
+605 illustrations available.
 
 | Illustration              | Name                        | Component                          |
 | ------------------------- | --------------------------- | ---------------------------------- |
@@ -85,6 +85,7 @@
 | Camping                   | `camping`                   | `<UndrawCamping />`                |
 | Cancel                    | `cancel`                    | `<UndrawCancel />`                 |
 | Candidate                 | `candidate`                 | `<UndrawCandidate />`              |
+| career progress           | `career-progress`           | `<UndrawCareerProgress />`         |
 | Cautious dog              | `cautious-dog`              | `<UndrawCautiousDog />`            |
 | Celebration               | `celebration`               | `<UndrawCelebration />`            |
 | Charts                    | `charts`                    | `<UndrawCharts />`                 |
@@ -138,6 +139,7 @@
 | Creative thinking         | `creative-thinking`         | `<UndrawCreativeThinking />`       |
 | Creative woman            | `creative-woman`            | `<UndrawCreativeWoman />`          |
 | Creativity                | `creativity`                | `<UndrawCreativity />`             |
+| Credit card               | `credit-card`               | `<UndrawCreditCard />`             |
 | Credit card payment       | `credit-card-payment`       | `<UndrawCreditCardPayment />`      |
 | Credit card payments      | `credit-card-payments`      | `<UndrawCreditCardPayments />`     |
 | Crypto flowers            | `crypto-flowers`            | `<UndrawCryptoFlowers />`          |
@@ -226,10 +228,10 @@
 | Freelancer                | `freelancer`                | `<UndrawFreelancer />`             |
 | Friendship                | `friendship`                | `<UndrawFriendship />`             |
 | Frozen figure             | `frozen-figure`             | `<UndrawFrozenFigure />`           |
-| GDPR                      | `gdpr`                      | `<UndrawGdpr />`                   |
 | Game day                  | `game-day`                  | `<UndrawGameDay />`                |
 | Gaming                    | `gaming`                    | `<UndrawGaming />`                 |
 | Gardening                 | `gardening`                 | `<UndrawGardening />`              |
+| GDPR                      | `gdpr`                      | `<UndrawGdpr />`                   |
 | Getting coffee            | `getting-coffee`            | `<UndrawGettingCoffee />`          |
 | Gift                      | `gift`                      | `<UndrawGift />`                   |
 | Gift card                 | `gift-card`                 | `<UndrawGiftCard />`               |
@@ -306,6 +308,7 @@
 | Love                      | `love`                      | `<UndrawLove />`                   |
 | Love is in the air        | `love-is-in-the-air`        | `<UndrawLoveIsInTheAir />`         |
 | Mail                      | `mail`                      | `<UndrawMail />`                   |
+| Mail sent                 | `mail-sent`                 | `<UndrawMailSent />`               |
 | Mailbox                   | `mailbox`                   | `<UndrawMailbox />`                |
 | Maintenance               | `maintenance`               | `<UndrawMaintenance />`            |
 | Make it rain              | `make-it-rain`              | `<UndrawMakeItRain />`             |
@@ -313,6 +316,7 @@
 | Makeup artist             | `makeup-artist`             | `<UndrawMakeupArtist />`           |
 | Making art                | `making-art`                | `<UndrawMakingArt />`              |
 | Map                       | `map`                       | `<UndrawMap />`                    |
+| Map dark                  | `map-dark`                  | `<UndrawMapDark />`                |
 | Map light                 | `map-light`                 | `<UndrawMapLight />`               |
 | Marilyn                   | `marilyn`                   | `<UndrawMarilyn />`                |
 | Marketing                 | `marketing`                 | `<UndrawMarketing />`              |
@@ -386,6 +390,7 @@
 | Organizing projects       | `organizing-projects`       | `<UndrawOrganizingProjects />`     |
 | Outer space               | `outer-space`               | `<UndrawOuterSpace />`             |
 | Page not found            | `page-not-found`            | `<UndrawPageNotFound />`           |
+| pair programming          | `pair-programming`          | `<UndrawPairProgramming />`        |
 | Palette                   | `palette`                   | `<UndrawPalette />`                |
 | Passing by                | `passing-by`                | `<UndrawPassingBy />`              |
 | Payments                  | `payments`                  | `<UndrawPayments />`               |
@@ -421,9 +426,9 @@
 | Printing invoices         | `printing-invoices`         | `<UndrawPrintingInvoices />`       |
 | Problem solving           | `problem-solving`           | `<UndrawProblemSolving />`         |
 | Processing                | `processing`                | `<UndrawProcessing />`             |
-| Product Tour              | `product-tour`              | `<UndrawProductTour />`            |
 | Product hunt              | `product-hunt`              | `<UndrawProductHunt />`            |
 | Product teardown          | `product-teardown`          | `<UndrawProductTeardown />`        |
+| Product Tour              | `product-tour`              | `<UndrawProductTour />`            |
 | Profile                   | `profile`                   | `<UndrawProfile />`                |
 | Profile data              | `profile-data`              | `<UndrawProfileData />`            |
 | Profile pic               | `profile-pic`               | `<UndrawProfilePic />`             |
@@ -460,6 +465,7 @@
 | Scooter                   | `scooter`                   | `<UndrawScooter />`                |
 | Scrum board               | `scrum-board`               | `<UndrawScrumBoard />`             |
 | Sculpting                 | `sculpting`                 | `<UndrawSculpting />`              |
+| Search                    | `search`                    | `<UndrawSearch />`                 |
 | Search engines            | `search-engines`            | `<UndrawSearchEngines />`          |
 | Secure data               | `secure-data`               | `<UndrawSecureData />`             |
 | Secure server             | `secure-server`             | `<UndrawSecureServer />`           |
@@ -487,6 +493,7 @@
 | Social growth             | `social-growth`             | `<UndrawSocialGrowth />`           |
 | Social ideas              | `social-ideas`              | `<UndrawSocialIdeas />`            |
 | Social life               | `social-life`               | `<UndrawSocialLife />`             |
+| Social media              | `social-media`              | `<UndrawSocialMedia />`            |
 | Social networking         | `social-networking`         | `<UndrawSocialNetworking />`       |
 | Social share              | `social-share`              | `<UndrawSocialShare />`            |
 | Social strategy           | `social-strategy`           | `<UndrawSocialStrategy />`         |
@@ -561,14 +568,15 @@
 | Upvote                    | `upvote`                    | `<UndrawUpvote />`                 |
 | Usability testing         | `usability-testing`         | `<UndrawUsabilityTesting />`       |
 | User flow                 | `user-flow`                 | `<UndrawUserFlow />`               |
-| VR chat                   | `vr-chat`                   | `<UndrawVrChat />`                 |
 | Vault                     | `vault`                     | `<UndrawVault />`                  |
 | Vehicle sale              | `vehicle-sale`              | `<UndrawVehicleSale />`            |
 | Version control           | `version-control`           | `<UndrawVersionControl />`         |
 | Video call                | `video-call`                | `<UndrawVideoCall />`              |
 | Videographer              | `videographer`              | `<UndrawVideographer />`           |
 | Virtual reality           | `virtual-reality`           | `<UndrawVirtualReality />`         |
+| visual data               | `visual-data`               | `<UndrawVisualData />`             |
 | Voice control             | `voice-control`             | `<UndrawVoiceControl />`           |
+| VR chat                   | `vr-chat`                   | `<UndrawVrChat />`                 |
 | Walk in the city          | `walk-in-the-city`          | `<UndrawWalkInTheCity />`          |
 | Wall post                 | `wall-post`                 | `<UndrawWallPost />`               |
 | Wallet                    | `wallet`                    | `<UndrawWallet />`                 |
@@ -603,6 +611,3 @@
 | Yacht                     | `yacht`                     | `<UndrawYacht />`                  |
 | Young and happy           | `young-and-happy`           | `<UndrawYoungAndHappy />`          |
 | Youtube tutorial          | `youtube-tutorial`          | `<UndrawYoutubeTutorial />`        |
-| career progress           | `career-progress`           | `<UndrawCareerProgress />`         |
-| pair programming          | `pair-programming`          | `<UndrawPairProgramming />`        |
-| visual data               | `visual-data`               | `<UndrawVisualData />`             |
