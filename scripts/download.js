@@ -58,5 +58,5 @@ function download() {
 
 // execute
 buildIlustrationsJson().then(() => {
-  // download()
+  download();
 });
