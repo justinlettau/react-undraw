@@ -186,6 +186,7 @@ import UndrawEnvironment from '../illustrations/UndrawEnvironment';
 import UndrawEther from '../illustrations/UndrawEther';
 import UndrawEthereum from '../illustrations/UndrawEthereum';
 import UndrawEvents from '../illustrations/UndrawEvents';
+import UndrawEverydayDesign from '../illustrations/UndrawEverydayDesign';
 import UndrawExams from '../illustrations/UndrawExams';
 import UndrawExperts from '../illustrations/UndrawExperts';
 import UndrawExploring from '../illustrations/UndrawExploring';
@@ -204,6 +205,7 @@ import UndrawFilingSystem from '../illustrations/UndrawFilingSystem';
 import UndrawFilter from '../illustrations/UndrawFilter';
 import UndrawFinance from '../illustrations/UndrawFinance';
 import UndrawFinancialData from '../illustrations/UndrawFinancialData';
+import UndrawFingerprint from '../illustrations/UndrawFingerprint';
 import UndrawFinishLine from '../illustrations/UndrawFinishLine';
 import UndrawFireworks from '../illustrations/UndrawFireworks';
 import UndrawFirmware from '../illustrations/UndrawFirmware';
@@ -371,6 +373,7 @@ import UndrawOnTheWay from '../illustrations/UndrawOnTheWay';
 import UndrawOnboarding from '../illustrations/UndrawOnboarding';
 import UndrawOnline from '../illustrations/UndrawOnline';
 import UndrawOnlineFriends from '../illustrations/UndrawOnlineFriends';
+import UndrawOnlinePage from '../illustrations/UndrawOnlinePage';
 import UndrawOnlineShopping from '../illustrations/UndrawOnlineShopping';
 import UndrawOnlineWishes from '../illustrations/UndrawOnlineWishes';
 import UndrawOnlineWorld from '../illustrations/UndrawOnlineWorld';
@@ -589,6 +592,7 @@ import UndrawWinterDesigner from '../illustrations/UndrawWinterDesigner';
 import UndrawWinterOlympics from '../illustrations/UndrawWinterOlympics';
 import UndrawWireframing from '../illustrations/UndrawWireframing';
 import UndrawWishes from '../illustrations/UndrawWishes';
+import UndrawWishlist from '../illustrations/UndrawWishlist';
 import UndrawWitch from '../illustrations/UndrawWitch';
 import UndrawWoman from '../illustrations/UndrawWoman';
 import UndrawWomenDay from '../illustrations/UndrawWomenDay';
@@ -793,6 +797,7 @@ const mappings = {
   ether: UndrawEther,
   ethereum: UndrawEthereum,
   events: UndrawEvents,
+  'everyday-design': UndrawEverydayDesign,
   exams: UndrawExams,
   experts: UndrawExperts,
   exploring: UndrawExploring,
@@ -811,6 +816,7 @@ const mappings = {
   filter: UndrawFilter,
   finance: UndrawFinance,
   'financial-data': UndrawFinancialData,
+  fingerprint: UndrawFingerprint,
   'finish-line': UndrawFinishLine,
   fireworks: UndrawFireworks,
   firmware: UndrawFirmware,
@@ -978,6 +984,7 @@ const mappings = {
   onboarding: UndrawOnboarding,
   online: UndrawOnline,
   'online-friends': UndrawOnlineFriends,
+  'online-page': UndrawOnlinePage,
   'online-shopping': UndrawOnlineShopping,
   'online-wishes': UndrawOnlineWishes,
   'online-world': UndrawOnlineWorld,
@@ -1196,6 +1203,7 @@ const mappings = {
   'winter-olympics': UndrawWinterOlympics,
   wireframing: UndrawWireframing,
   wishes: UndrawWishes,
+  wishlist: UndrawWishlist,
   witch: UndrawWitch,
   woman: UndrawWoman,
   'women-day': UndrawWomenDay,

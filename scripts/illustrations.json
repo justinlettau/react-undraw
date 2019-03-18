@@ -744,6 +744,10 @@
     "svg": "events_2p66.svg"
   },
   {
+    "name": "Everyday design",
+    "svg": "everyday_design_gy64.svg"
+  },
+  {
     "name": "Exams",
     "svg": "exams_g4ow.svg"
   },
@@ -814,6 +818,10 @@
   {
     "name": "Financial data",
     "svg": "financial_data_es63.svg"
+  },
+  {
+    "name": "Fingerprint",
+    "svg": "fingerprint_swrc.svg"
   },
   {
     "name": "Finish line",
@@ -1482,6 +1490,10 @@
   {
     "name": "Online friends",
     "svg": "online_friends_x73e.svg"
+  },
+  {
+    "name": "Online page",
+    "svg": "online_page_cq94.svg"
   },
   {
     "name": "Online shopping",
@@ -2354,6 +2366,10 @@
   {
     "name": "Wishes",
     "svg": "wishes_icyp.svg"
+  },
+  {
+    "name": "Wishlist",
+    "svg": "wishlist_jk8a.svg"
   },
   {
     "name": "Witch",

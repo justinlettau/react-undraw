@@ -2,7 +2,7 @@
 
 # Illustrations
 
-605 illustrations available.
+609 illustrations available.
 
 | Illustration              | Name                        | Component                          |
 | ------------------------- | --------------------------- | ---------------------------------- |
@@ -192,6 +192,7 @@
 | Ether                     | `ether`                     | `<UndrawEther />`                  |
 | Ethereum                  | `ethereum`                  | `<UndrawEthereum />`               |
 | Events                    | `events`                    | `<UndrawEvents />`                 |
+| Everyday design           | `everyday-design`           | `<UndrawEverydayDesign />`         |
 | Exams                     | `exams`                     | `<UndrawExams />`                  |
 | Experts                   | `experts`                   | `<UndrawExperts />`                |
 | Exploring                 | `exploring`                 | `<UndrawExploring />`              |
@@ -210,6 +211,7 @@
 | Filter                    | `filter`                    | `<UndrawFilter />`                 |
 | Finance                   | `finance`                   | `<UndrawFinance />`                |
 | Financial data            | `financial-data`            | `<UndrawFinancialData />`          |
+| Fingerprint               | `fingerprint`               | `<UndrawFingerprint />`            |
 | Finish line               | `finish-line`               | `<UndrawFinishLine />`             |
 | Fireworks                 | `fireworks`                 | `<UndrawFireworks />`              |
 | Firmware                  | `firmware`                  | `<UndrawFirmware />`               |
@@ -377,6 +379,7 @@
 | Onboarding                | `onboarding`                | `<UndrawOnboarding />`             |
 | Online                    | `online`                    | `<UndrawOnline />`                 |
 | Online friends            | `online-friends`            | `<UndrawOnlineFriends />`          |
+| Online page               | `online-page`               | `<UndrawOnlinePage />`             |
 | Online shopping           | `online-shopping`           | `<UndrawOnlineShopping />`         |
 | Online wishes             | `online-wishes`             | `<UndrawOnlineWishes />`           |
 | Online world              | `online-world`              | `<UndrawOnlineWorld />`            |
@@ -595,6 +598,7 @@
 | Winter olympics           | `winter-olympics`           | `<UndrawWinterOlympics />`         |
 | Wireframing               | `wireframing`               | `<UndrawWireframing />`            |
 | Wishes                    | `wishes`                    | `<UndrawWishes />`                 |
+| Wishlist                  | `wishlist`                  | `<UndrawWishlist />`               |
 | Witch                     | `witch`                     | `<UndrawWitch />`                  |
 | Woman                     | `woman`                     | `<UndrawWoman />`                  |
 | Women day                 | `women-day`                 | `<UndrawWomenDay />`               |
