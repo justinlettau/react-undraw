@@ -93,7 +93,7 @@
     "ora": "^3.2.0",
     "pascal-case": "^2.0.1",
     "prettier": "^1.16.4",
-    "pretty-quick": "^1.10.0",
+    "pretty-quick": "^2.0.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "^2.1.8",
