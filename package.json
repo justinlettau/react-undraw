@@ -57,7 +57,7 @@
     "del": "^5.1.0",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6",
-    "pascal-case": "^2.0.1"
+    "pascal-case": "^3.0.0"
   },
   "devDependencies": {
     "@justinlettau/renovate-config": "^0.1.2",
