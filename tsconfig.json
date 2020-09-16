@@ -9,6 +9,7 @@
     "moduleResolution": "node",
     "outDir": "dist",
     "strict": true,
+    "skipLibCheck": true,
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"]
   },
