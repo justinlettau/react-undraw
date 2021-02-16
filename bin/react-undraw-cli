@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
 const path = require('path');
-const file = path.join(__dirname, '../', 'scripts', 'build.js')
+const file = path.join(__dirname, '../', 'scripts', 'build.js');
 
 require(file);
