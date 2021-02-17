@@ -44,8 +44,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "peerDependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "dependencies": {
     "@svgr/core": "^5.3.0",
@@ -70,8 +70,8 @@
     "jest": "^25.2.4",
     "prettier": "^2.0.2",
     "pretty-quick": "^2.0.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "standard-version": "^7.1.0",
     "ts-jest": "^25.2.1",
     "tslint": "^6.1.0",
