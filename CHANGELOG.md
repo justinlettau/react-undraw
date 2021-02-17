@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/justinlettau/react-undraw/compare/v2.0.2...v2.0.3) (2021-02-17)
+
+
+### Bug Fixes
+
+* replace windows line endings ([#55](https://github.com/justinlettau/react-undraw/issues/55)) ([12f6820](https://github.com/justinlettau/react-undraw/commit/12f682022987b041f5c41c2ef05993276fdf74e4))
+
 ### [2.0.2](https://github.com/justinlettau/react-undraw/compare/v2.0.1...v2.0.2) (2020-10-01)
 
 
