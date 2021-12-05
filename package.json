@@ -64,7 +64,6 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@justinlettau/tslint-config": "^0.1.0",
     "husky": "^4.2.3",
     "jest": "^25.2.4",
     "prettier": "^2.0.2",

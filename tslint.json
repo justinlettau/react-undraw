@@ -1,9 +1,32 @@
 {
-  "extends": ["@justinlettau/tslint-config", "tslint-react", "tslint-config-prettier"],
+  "extends": ["tslint-react", "tslint-config-prettier"],
   "linterOptions": {
     "exclude": ["src/components/*"]
   },
   "rules": {
+    "interface-name": [true, "never-prefix"],
+    "member-access": [true, "no-public"],
+    "member-ordering": [
+      true,
+      {
+        "order": [
+          "public-static-field",
+          "protected-static-field",
+          "private-static-field",
+          "public-static-method",
+          "protected-static-method",
+          "private-static-method",
+          "constructor",
+          "public-instance-field",
+          "protected-instance-field",
+          "private-instance-field",
+          "public-instance-method",
+          "protected-instance-method",
+          "private-instance-method"
+        ]
+      }
+    ],
+    "no-empty-interface": false,
     "object-literal-sort-keys": false
   }
 }
